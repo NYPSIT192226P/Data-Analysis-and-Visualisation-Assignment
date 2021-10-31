@@ -1,0 +1,9 @@
+Graph for-
+1. Industry and LoanPrincipalAmt
+2. Resident type and LoanPrincipalAmt
+3. brand populaity
+4. Household income and loan principal amt*
+5. auto loan serviceability (1-2) *
+6. Industry and Interest payable * 
+7. auto loan take up *
+8. default payment rate *

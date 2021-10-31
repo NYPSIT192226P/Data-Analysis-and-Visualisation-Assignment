@@ -1,0 +1,6887 @@
+﻿CustomerID,AnnualIncome,Industry
+1,56680,Manufacturing
+2,105000,Transport
+3,49000,Information Technology
+4,49000,Communications
+5,54640,Manufacturing
+6,34440,Media
+7,73000,Government
+8,223680,Manufacturing
+9,119200,Transport
+10,78000,Property
+11,42880,Transport
+12,47680,Electronics
+13,79200,Food and Beverages
+14,82000,Retail
+15,106200,Diversified
+16,76300,Government
+17,75000,HealthCare
+18,54000,Electronics
+19,42000,Information Technology
+20,78200,Transport
+21,33107,Transport
+22,79400,Transport
+23,58000,Investment
+24,90900,Banking and Finance
+25,201500,Transport
+26,92000,Transport
+27,80280,Government
+28,53760,Communications
+29,199000,Retail
+30,82600,Property
+31,55000,Diversified
+32,119520,Food and Beverages
+33,77500,Security
+34,73000,Investment
+35,42000,Entertainment
+36,57000,Transport
+37,103920,Transport
+38,77900,Transport
+39,81700,HealthCare
+40,105000,Security
+41,77000,Transport
+42,72720,Banking and Finance
+43,49800,Communications
+44,53920,Media
+45,33131,HealthCare
+46,44000,Education
+47,75000,Communications
+48,42000,Food and Beverages
+49,52000,Retail
+50,45000,Retail
+51,73000,Investment
+52,42000,Transport
+53,56000,Communications
+54,58640,HealthCare
+55,31132,Hospitality
+56,48000,Electronics
+57,40000,Design
+58,55000,Communications
+59,73000,Information Technology
+60,52360,Transport
+61,49200,Manufacturing
+62,201720,Transport
+63,42000,Energy and Utility
+64,31137,Transport
+65,45000,Food and Beverages
+66,80320,Diversified
+67,73000,Investment
+68,77000,Property
+69,50000,Retail
+70,120000,Transport
+71,52000,Accounting
+72,30798,Manufacturing
+73,58000,Property
+74,45880,Food and Beverages
+75,31678,HealthCare
+76,80100,Information Technology
+77,82800,Consulting
+78,52400,Transport
+79,79400,Information Technology
+80,52520,HealthCare
+81,92000,Design
+82,50000,Government
+83,44000,Electronics
+84,46000,Energy and Utility
+85,73000,Government
+86,75600,Service
+87,92400,Design
+88,49500,Diversified
+89,75000,Information Technology
+90,45480,Design
+91,54000,Communications
+92,79800,Electronics
+93,76000,HealthCare
+94,55000,Banking and Finance
+95,80360,HealthCare
+96,32773,Transport
+97,52000,Electronics
+98,199500,Energy and Utility
+99,42000,Security
+100,145000,Investment
+101,59100,Transport
+102,52000,Marine
+103,43800,Retail
+104,44000,Communications
+105,46000,Communications
+106,56000,Property
+107,105100,Consulting
+108,34800,Food and Beverages
+109,55000,Transport
+110,50880,Transport
+111,102080,Transport
+112,73000,Property
+113,99000,Manufacturing
+114,60010,Investment
+115,48080,Media
+116,76320,Information Technology
+117,42000,Entertainment
+118,56000,HealthCare
+119,32803,Manufacturing
+120,60000,Banking and Finance
+121,55000,Information Technology
+122,53000,Electronics
+123,92500,Design
+124,54640,Security
+125,54640,Manufacturing
+126,57360,Information Technology
+127,50880,Data Storage
+128,42000,Design
+129,33143,Retail
+130,52000,Information Technology
+131,200400,Investment
+132,105240,Security
+133,197360,HealthCare
+134,60000,Information Technology
+135,50000,Transport
+136,56000,Property
+137,80000,Investment
+138,92640,Diversified
+139,51000,Information Technology
+140,30012,Hospitality
+141,232900,Diversified
+142,52700,Communications
+143,79800,Information Technology
+144,44000,Communications
+145,34800,Diversified
+146,198000,Banking and Finance
+147,73000,Government
+148,32535,Food and Beverages
+149,44000,Energy and Utility
+150,73000,Transport
+151,46000,Diversified
+152,72000,Government
+153,73000,Energy and Utility
+154,57000,Transport
+155,42000,Manufacturing
+156,31690,Transport
+157,72720,Manufacturing
+158,220240,Food and Beverages
+159,54680,HealthCare
+160,59000,Electronics
+161,75000,Manufacturing
+162,56680,Government
+163,98000,Marine
+164,52000,Diversified
+165,80100,Investment
+166,104000,Communications
+167,52000,Retail
+168,49000,Electronics
+169,92000,Government
+170,50000,Property
+171,32997,Energy and Utility
+172,52010,Marine
+173,55000,Electronics
+174,73000,HealthCare
+175,105000,Diversified
+176,55000,Design
+177,58000,Data Storage
+178,54000,Communications
+179,44000,Energy and Utility
+180,81000,Property
+181,79800,Transport
+182,198400,Media
+183,31229,HealthCare
+184,49500,Electronics
+185,58000,HealthCare
+186,78000,Communications
+187,44000,Data Storage
+188,40000,Security
+189,49600,Security
+190,120100,Communications
+191,75000,Marine
+192,58000,Property
+193,129240,Design
+194,79200,Property
+195,31208,Investment
+196,49000,Information Technology
+197,60000,Security
+198,78680,Electronics
+199,60000,HealthCare
+200,46000,Transport
+201,52000,Information Technology
+202,54000,Information Technology
+203,42000,Food and Beverages
+204,109680,Energy and Utility
+205,48100,Government
+206,72720,Government
+207,78000,Property
+208,52000,Media
+209,57440,Transport
+210,199000,Transport
+211,145200,Electronics
+212,87120,Security
+213,38400,Information Technology
+214,72720,Media
+215,33156,Transport
+216,105360,Agribusiness
+217,50000,Diversified
+218,81080,Retail
+219,52000,Marine
+220,42880,Entertainment
+221,58000,Manufacturing
+222,121000,Banking and Finance
+223,50000,Media
+224,55000,Transport
+225,80200,Transport
+226,43520,HealthCare
+227,46000,Manufacturing
+228,50000,Property
+229,75000,Transport
+230,79100,Communications
+231,78520,HealthCare
+232,31503,Property
+233,98760,Transport
+234,145560,Education
+235,92960,Accounting
+236,107800,Investment
+237,42000,Diversified
+238,40000,Communications
+239,106000,Communications
+240,79840,Manufacturing
+241,81100,Transport
+242,100400,Media
+243,201000,Information Technology
+244,78000,Communications
+245,32031,Transport
+246,49000,Accounting
+247,35040,Design
+248,79027,Transport
+249,73000,Communications
+250,32816,Electronics
+251,43920,Marine
+252,53000,Diversified
+253,53880,Information Technology
+254,49320,Consulting
+255,44000,Property
+256,76000,Transport
+257,48000,HealthCare
+258,72800,Transport
+259,60000,Energy and Utility
+260,93000,Marine
+261,146000,Security
+262,73000,Retail
+263,60000,Media
+264,78000,Marine
+265,53920,Transport
+266,80400,Retail
+267,220440,Design
+268,78600,Transport
+269,47760,Food and Beverages
+270,46000,Security
+271,50900,Information Technology
+272,48000,Security
+273,50560,Investment
+274,53920,Manufacturing
+275,42000,HealthCare
+276,51600,HealthCare
+277,76000,Information Technology
+278,72800,Information Technology
+279,75600,HealthCare
+280,42000,Communications
+281,78000,Property
+282,52400,Electronics
+283,56000,Transport
+284,92000,Property
+285,93020,Energy and Utility
+286,79100,Property
+287,59500,HealthCare
+288,49800,Banking and Finance
+289,55000,Property
+290,109800,Marine
+291,73000,Consulting
+292,54720,Transport
+293,46000,Media
+294,46000,Electronics
+295,33161,Energy and Utility
+296,78600,Information Technology
+297,106000,Communications
+298,53000,Banking and Finance
+299,31850,Manufacturing
+300,100480,Security
+301,45000,Property
+302,58200,Banking and Finance
+303,78440,Media
+304,53600,Retail
+305,93020,Energy and Utility
+306,75000,HealthCare
+307,54800,Manufacturing
+308,44000,Communications
+309,58000,HealthCare
+310,60000,Manufacturing
+311,113480,Retail
+312,220800,Education
+313,54000,Manufacturing
+314,75000,Retail
+315,40000,Education
+316,122880,Logistics
+317,60000,Investment
+318,56000,Diversified
+319,73000,Investment
+320,42000,Investment
+321,30902,Communications
+322,50900,Marine
+323,58000,HealthCare
+324,92000,Banking and Finance
+325,45000,Communications
+326,48520,Information Technology
+327,45000,Manufacturing
+328,197400,HealthCare
+329,53000,Transport
+330,146000,Design
+331,50900,Food and Beverages
+332,50000,Design
+333,52000,Data Storage
+334,53880,Education
+335,54000,Banking and Finance
+336,52000,Agribusiness
+337,33162,Transport
+338,82000,Investment
+339,45000,HealthCare
+340,50000,Energy and Utility
+341,126800,Transport
+342,75000,Information Technology
+343,79880,Communications
+344,81760,Manufacturing
+345,58000,Property
+346,58160,Manufacturing
+347,50000,Communications
+348,31533,Transport
+349,43920,Electronics
+350,52000,Information Technology
+351,75000,Transport
+352,51600,HealthCare
+353,55000,Data Storage
+354,127200,Government
+355,82600,Manufacturing
+356,50400,HealthCare
+357,79880,Service
+358,31935,Agribusiness
+359,73000,Marine
+360,49000,Information Technology
+361,40200,Food and Beverages
+362,78000,Marine
+363,50100,Marine
+364,58000,Manufacturing
+365,42000,Education
+366,27013,Media
+367,45000,Transport
+368,104000,Data Storage
+369,90000,Banking and Finance
+370,55000,Property
+371,52000,HealthCare
+372,59160,Information Technology
+373,50100,Communications
+374,80000,Security
+375,44000,Security
+376,78000,HealthCare
+377,44000,Transport
+378,90960,Education
+379,44000,Energy and Utility
+380,82800,Property
+381,32553,Communications
+382,50904,Banking and Finance
+383,106080,Design
+384,52000,Electronics
+385,93320,Food and Beverages
+386,40240,Diversified
+387,47760,Food and Beverages
+388,43000,Transport
+389,48013,Consulting
+390,60000,HealthCare
+391,60000,Retail
+392,197500,Transport
+393,50900,Banking and Finance
+394,141000,Property
+395,57000,Electronics
+396,73000,Communications
+397,93600,Security
+398,33200,Banking and Finance
+399,33212,Agribusiness
+400,58000,HealthCare
+401,73000,Investment
+402,52960,Electronics
+403,44000,HealthCare
+404,106080,Investment
+405,75000,Investment
+406,78760,Information Technology
+407,196480,HealthCare
+408,196480,Transport
+409,106200,Banking and Finance
+410,60000,Manufacturing
+411,82600,Property
+412,44000,Food and Beverages
+413,198100,Information Technology
+414,43000,Transport
+415,42120,Service
+416,42000,Communications
+417,52000,Food and Beverages
+418,32831,HealthCare
+419,42000,Communications
+420,79100,Transport
+421,220800,Transport
+422,50000,Transport
+423,110000,Investment
+424,30160,Investment
+425,48720,Manufacturing
+426,79920,Transport
+427,52000,HealthCare
+428,30023,Transport
+429,57100,Communications
+430,51240,Diversified
+431,46000,Communications
+432,55000,Diversified
+433,76000,HealthCare
+434,76000,Design
+435,33221,HealthCare
+436,93760,Communications
+437,81000,Investment
+438,57480,Information Technology
+439,52000,Investment
+440,59200,Manufacturing
+441,45000,Transport
+442,57500,Transport
+443,53225,Energy and Utility
+444,80000,Information Technology
+445,83000,Investment
+446,45000,Investment
+447,75000,Information Technology
+448,201760,Media
+449,60000,Transport
+450,75000,Consulting
+451,51240,Entertainment
+452,76000,Marine
+453,57000,Food and Beverages
+454,38040,Design
+455,31244,Hospitality
+456,110000,Banking and Finance
+457,57000,Information Technology
+458,54800,Food and Beverages
+459,42000,Food and Beverages
+460,33024,Diversified
+461,42000,Retail
+462,45480,Banking and Finance
+463,93920,Electronics
+464,43600,Security
+465,30164,Electronics
+466,202000,Investment
+467,50100,Information Technology
+468,80000,Diversified
+469,110000,Information Technology
+470,73500,Transport
+471,76000,Transport
+472,105000,Education
+473,73000,Marine
+474,105000,Marine
+475,43920,Security
+476,33228,Transport
+477,75600,Transport
+478,80480,Manufacturing
+479,36000,Transport
+480,147000,Electronics
+481,54000,Food and Beverages
+482,49500,Property
+483,75000,Transport
+484,59880,Communications
+485,57600,Transport
+486,48000,Design
+487,30913,Transport
+488,53000,Government
+489,197400,Food and Beverages
+490,57320,Security
+491,60000,Media
+492,83000,Transport
+493,80000,Food and Beverages
+494,43000,Agribusiness
+495,42000,Food and Beverages
+496,57000,Property
+497,55000,Manufacturing
+498,55650,Information Technology
+499,45000,Property
+500,53000,Transport
+501,49000,Retail
+502,47000,Security
+503,49000,Property
+504,59000,Food and Beverages
+505,49000,Communications
+506,147520,Diversified
+507,77000,Information Technology
+508,53960,Information Technology
+509,50000,Retail
+510,53000,Transport
+511,53000,Education
+512,45480,Property
+513,65000,HealthCare
+514,45980,Investment
+515,30948,HealthCare
+516,31548,Manufacturing
+517,127960,Marine
+518,30803,Security
+519,82640,Investment
+520,39000,Media
+521,68500,Transport
+522,43000,HealthCare
+523,49320,Media
+524,42200,Security
+525,33267,Communications
+526,79000,Property
+527,56000,Communications
+528,59600,Government
+529,42000,Security
+530,57600,Consulting
+531,53000,Transport
+532,157800,Transport
+533,239000,Transport
+534,37500,Food and Beverages
+535,104000,Property
+536,82640,Media
+537,48000,Diversified
+538,63900,Information Technology
+539,49320,Manufacturing
+540,80300,Energy and Utility
+541,123000,Security
+542,51300,Government
+543,57000,HealthCare
+544,131800,Information Technology
+545,169500,HealthCare
+546,60000,Banking and Finance
+547,77000,Electronics
+548,42000,Retail
+549,49000,Marine
+550,48000,Retail
+551,53500,Communications
+552,198000,Manufacturing
+553,47000,Energy and Utility
+554,43500,Food and Beverages
+555,63520,Electronics
+556,56000,Communications
+557,77960,Communications
+558,102000,Design
+559,52000,Electronics
+560,48000,Energy and Utility
+561,104000,Design
+562,73000,Manufacturing
+563,56010,Information Technology
+564,56000,Investment
+565,42000,Property
+566,58000,HealthCare
+567,80480,Media
+568,180000,Manufacturing
+569,79640,Transport
+570,48720,Media
+571,73000,HealthCare
+572,60440,HealthCare
+573,56000,Electronics
+574,45600,Transport
+575,42000,Manufacturing
+576,73000,Government
+577,76320,Property
+578,76440,Information Technology
+579,225900,Transport
+580,73000,Transport
+581,45080,Energy and Utility
+582,51000,Property
+583,47000,HealthCare
+584,75000,Marine
+585,79000,Investment
+586,42000,Property
+587,47400,Information Technology
+588,69000,Banking and Finance
+589,73000,Transport
+590,59000,Education
+591,89600,Banking and Finance
+592,83000,HealthCare
+593,52000,Retail
+594,78760,Transport
+595,42000,Transport
+596,87160,Investment
+597,42000,Media
+598,79000,Property
+599,51000,Entertainment
+600,101000,Property
+601,55000,Property
+602,42000,HealthCare
+603,64695,Investment
+604,73000,HealthCare
+605,42000,Information Technology
+606,42000,Food and Beverages
+607,56000,HealthCare
+608,49000,Manufacturing
+609,67000,Transport
+610,80000,Manufacturing
+611,32838,Food and Beverages
+612,74000,Transport
+613,65950,HealthCare
+614,104000,Manufacturing
+615,68950,Electronics
+616,43640,Retail
+617,53000,Agribusiness
+618,42400,Security
+619,73000,Property
+620,81000,Transport
+621,52000,Education
+622,197000,Transport
+623,142000,Transport
+624,42000,Banking and Finance
+625,60000,Government
+626,94000,Security
+627,48400,Security
+628,73000,Marine
+629,44000,Security
+630,63659,Marine
+631,49600,Security
+632,48000,Communications
+633,58000,Communications
+634,59200,Property
+635,42000,Food and Beverages
+636,49530,Design
+637,56000,Retail
+638,110120,Transport
+639,32558,Diversified
+640,80000,Government
+641,80230,Government
+642,141000,Diversified
+643,78000,Retail
+644,71350,Property
+645,47000,Energy and Utility
+646,42000,Property
+647,73000,Banking and Finance
+648,102000,Consulting
+649,85000,Property
+650,55000,Banking and Finance
+651,43000,Information Technology
+652,51680,Accounting
+653,54000,Electronics
+654,80000,HealthCare
+655,45380,Accounting
+656,54000,Communications
+657,48000,Accounting
+658,55000,Communications
+659,47000,Security
+660,42240,Design
+661,75000,Transport
+662,59000,Manufacturing
+663,55000,Manufacturing
+664,48100,Property
+665,53000,Transport
+666,52000,Manufacturing
+667,73000,Property
+668,73000,Marine
+669,69000,Agribusiness
+670,54000,Investment
+671,78785,Transport
+672,30034,Energy and Utility
+673,102600,Banking and Finance
+674,76000,HealthCare
+675,76000,Manufacturing
+676,73000,Manufacturing
+677,42000,Banking and Finance
+678,45000,Diversified
+679,73000,Property
+680,54000,Retail
+681,94000,Education
+682,73000,Manufacturing
+683,78000,Property
+684,76000,Property
+685,48500,Diversified
+686,52000,Manufacturing
+687,56000,Information Technology
+688,142000,Diversified
+689,95000,Banking and Finance
+690,73000,Banking and Finance
+691,75000,Security
+692,73000,Accounting
+693,47000,Communications
+694,42000,Communications
+695,31935,Communications
+696,57000,Manufacturing
+697,74000,Banking and Finance
+698,69000,Security
+699,147760,Transport
+700,52000,Manufacturing
+701,42000,Transport
+702,80500,Property
+703,47000,Manufacturing
+704,47000,Property
+705,83110,Communications
+706,49000,Design
+707,42000,Entertainment
+708,50000,Transport
+709,148000,Education
+710,30047,Transport
+711,106560,Education
+712,201800,Information Technology
+713,55000,Communications
+714,156900,Education
+715,82000,Information Technology
+716,49600,Manufacturing
+717,70000,Manufacturing
+718,75840,Transport
+719,48000,Communications
+720,44000,Property
+721,63500,Marine
+722,52560,Manufacturing
+723,48960,HealthCare
+724,52000,Investment
+725,54350,Investment
+726,47000,Food and Beverages
+727,42000,Food and Beverages
+728,110520,Service
+729,47880,Information Technology
+730,48000,Manufacturing
+731,57000,Manufacturing
+732,50900,Marine
+733,50000,Property
+734,47000,Banking and Finance
+735,105000,Communications
+736,30281,Food and Beverages
+737,57100,Banking and Finance
+738,48100,Communications
+739,73000,Diversified
+740,31250,Transport
+741,53000,Banking and Finance
+742,59000,Manufacturing
+743,81569,Transport
+744,41280,Food and Beverages
+745,73000,Diversified
+746,237600,Property
+747,99000,Investment
+748,78000,Manufacturing
+749,73000,Transport
+750,47500,Security
+751,54000,Retail
+752,82664,Transport
+753,52000,Communications
+754,49000,Property
+755,141000,Electronics
+756,53000,Information Technology
+757,74000,Entertainment
+758,51300,Government
+759,78000,Retail
+760,48800,Manufacturing
+761,52000,Government
+762,238400,Manufacturing
+763,47000,Transport
+764,45000,Diversified
+765,49800,Marine
+766,85000,HealthCare
+767,94000,Manufacturing
+768,57200,Retail
+769,78800,Transport
+770,52000,Electronics
+771,54900,Information Technology
+772,106840,Transport
+773,82680,Investment
+774,196480,Manufacturing
+775,42000,Electronics
+776,76000,Property
+777,42000,Property
+778,110560,Marine
+779,57000,Communications
+780,39500,Retail
+781,81000,Marine
+782,43920,Food and Beverages
+783,148000,Manufacturing
+784,237200,Service
+785,81800,Education
+786,45000,Manufacturing
+787,48800,Transport
+788,50000,Diversified
+789,44000,Entertainment
+790,47000,Security
+791,42000,Investment
+792,59200,Investment
+793,46000,Security
+794,33310,Communications
+795,51000,Media
+796,50000,Retail
+797,50500,Agribusiness
+798,77000,Transport
+799,73000,Transport
+800,30954,Energy and Utility
+801,53000,Banking and Finance
+802,76650,Information Technology
+803,53000,Diversified
+804,56010,Information Technology
+805,56000,Communications
+806,59000,Energy and Utility
+807,95000,Logistics
+808,65000,Property
+809,47880,Communications
+810,190000,Government
+811,85000,Transport
+812,30064,Transport
+813,50000,Information Technology
+814,73000,Transport
+815,36000,Security
+816,79700,Transport
+817,57600,Information Technology
+818,148000,Communications
+819,58000,Transport
+820,48000,Investment
+821,47000,Energy and Utility
+822,50000,HealthCare
+823,78000,Information Technology
+824,43600,Agribusiness
+825,59200,HealthCare
+826,39000,Communications
+827,60000,Investment
+828,197220,Transport
+829,46000,Manufacturing
+830,53000,Property
+831,59000,Banking and Finance
+832,50000,Retail
+833,76000,Design
+834,201000,Property
+835,51680,Investment
+836,56000,Diversified
+837,53000,Information Technology
+838,50000,Diversified
+839,202000,Investment
+840,201320,Consulting
+841,95000,Banking and Finance
+842,73000,HealthCare
+843,70000,Investment
+844,148000,Design
+845,83000,Logistics
+846,54000,HealthCare
+847,58700,Energy and Utility
+848,142000,Transport
+849,43000,HealthCare
+850,32056,Logistics
+851,53000,Energy and Utility
+852,48590,Property
+853,36360,Food and Beverages
+854,202000,HealthCare
+855,78800,Diversified
+856,152900,Energy and Utility
+857,49000,Food and Beverages
+858,45160,Food and Beverages
+859,52000,Property
+860,221000,Security
+861,81000,Media
+862,76000,Investment
+863,59120,Manufacturing
+864,46000,Property
+865,79500,Investment
+866,236000,Food and Beverages
+867,43000,Entertainment
+868,73000,Transport
+869,57600,Retail
+870,42000,Property
+871,69000,Media
+872,47880,Communications
+873,59311,Transport
+874,30206,Logistics
+875,54000,HealthCare
+876,44000,Manufacturing
+877,54800,Media
+878,79580,Information Technology
+879,111000,Design
+880,73000,Communications
+881,47000,Education
+882,78840,HealthCare
+883,42000,Security
+884,91000,Banking and Finance
+885,28000,Transport
+886,55000,HealthCare
+887,55000,Education
+888,128000,Transport
+889,59000,Manufacturing
+890,49560,Transport
+891,58000,Banking and Finance
+892,39000,Transport
+893,76950,Information Technology
+894,45000,Security
+895,51000,Manufacturing
+896,48000,Transport
+897,42000,Security
+898,43000,Banking and Finance
+899,36500,Diversified
+900,51000,Education
+901,48000,Information Technology
+902,49560,HealthCare
+903,76000,Banking and Finance
+904,43000,Security
+905,50325,Transport
+906,43640,Electronics
+907,46800,Transport
+908,106920,HealthCare
+909,72000,Transport
+910,148000,Property
+911,52400,HealthCare
+912,43800,Property
+913,201800,HealthCare
+914,48000,Design
+915,179000,Energy and Utility
+916,42480,Design
+917,72000,Communications
+918,54000,Electronics
+919,53000,Retail
+920,80000,Information Technology
+921,93000,Food and Beverages
+922,60000,Transport
+923,73990,Transport
+924,81000,Transport
+925,45900,HealthCare
+926,52000,Information Technology
+927,50000,Media
+928,56000,Education
+929,83000,Energy and Utility
+930,78000,Transport
+931,53600,Government
+932,81800,Electronics
+933,48000,Communications
+934,148000,Communications
+935,58000,Diversified
+936,51700,Information Technology
+937,101000,Logistics
+938,94520,Investment
+939,60000,Manufacturing
+940,39800,Food and Beverages
+941,73000,Design
+942,76700,Electronics
+943,46920,Security
+944,69500,Media
+945,52000,Communications
+946,28000,Diversified
+947,30433,Food and Beverages
+948,56000,Data Storage
+949,52000,Transport
+950,49000,Communications
+951,73000,Consulting
+952,49000,Media
+953,43650,HealthCare
+954,100000,Information Technology
+955,49000,Information Technology
+956,76000,HealthCare
+957,60674,Marine
+958,85000,Media
+959,41000,Transport
+960,129000,Transport
+961,73000,Marine
+962,75000,Energy and Utility
+963,80000,Manufacturing
+964,89000,Banking and Finance
+965,32900,Electronics
+966,42000,Banking and Finance
+967,57600,Information Technology
+968,69000,Communications
+969,76000,Energy and Utility
+970,57600,Food and Beverages
+971,78000,Property
+972,85230,Property
+973,60000,Transport
+974,49600,Manufacturing
+975,94640,Design
+976,79400,Transport
+977,36800,Transport
+978,43250,Banking and Finance
+979,39000,Transport
+980,89000,Energy and Utility
+981,59000,Manufacturing
+982,47000,Transport
+983,49000,Accounting
+984,56160,HealthCare
+985,69800,Property
+986,50640,Banking and Finance
+987,77450,Transport
+988,68890,Information Technology
+989,55000,Communications
+990,49850,Marine
+991,44000,HealthCare
+992,53600,Diversified
+993,44965,Service
+994,42639,HealthCare
+995,79000,Information Technology
+996,44500,Information Technology
+997,47650,Transport
+998,67000,Manufacturing
+999,44960,Transport
+1000,27013,Media
+1001,49000,Retail
+1002,58000,Property
+1003,43000,HealthCare
+1004,35692,Retail
+1005,49000,Communications
+1006,83000,Banking and Finance
+1007,32652,Food and Beverages
+1008,73000,Marine
+1009,126000,Consulting
+1010,94800,Energy and Utility
+1011,238000,Property
+1012,42000,Energy and Utility
+1013,49000,Transport
+1014,57800,Security
+1015,26590,Entertainment
+1016,69000,Logistics
+1017,52000,Manufacturing
+1018,48000,Security
+1019,123500,Energy and Utility
+1020,75000,Transport
+1021,46000,Food and Beverages
+1022,79500,Property
+1023,80000,Investment
+1024,42000,Government
+1025,65960,Manufacturing
+1026,81000,Transport
+1027,30526,Communications
+1028,42000,Banking and Finance
+1029,83000,Transport
+1030,94800,Media
+1031,39000,Manufacturing
+1032,107000,Energy and Utility
+1033,51200,Manufacturing
+1034,53000,HealthCare
+1035,58000,Property
+1036,41200,Manufacturing
+1037,60000,Communications
+1038,226140,Banking and Finance
+1039,55000,Transport
+1040,65360,Transport
+1041,56200,HealthCare
+1042,75000,Media
+1043,44000,Manufacturing
+1044,95000,Security
+1045,38700,Diversified
+1046,33000,HealthCare
+1047,49000,Energy and Utility
+1048,98000,Design
+1049,198100,Retail
+1050,227100,Education
+1051,60000,Communications
+1052,156200,Transport
+1053,224000,Manufacturing
+1054,73000,Security
+1055,63000,Diversified
+1056,83000,Marine
+1057,46500,HealthCare
+1058,50640,Retail
+1059,59890,Property
+1060,221000,Security
+1061,61000,Food and Beverages
+1062,60000,Communications
+1063,56280,Transport
+1064,85500,Manufacturing
+1065,47000,Information Technology
+1066,35000,Transport
+1067,111000,Entertainment
+1068,46500,Security
+1069,57000,Data Storage
+1070,53000,Energy and Utility
+1071,56280,Transport
+1072,53000,Investment
+1073,60000,HealthCare
+1074,80000,Communications
+1075,31001,Property
+1076,60000,Information Technology
+1077,75000,Property
+1078,133600,Communications
+1079,79500,Diversified
+1080,38000,Transport
+1081,196320,Investment
+1082,49500,Security
+1083,39500,Transport
+1084,75000,Communications
+1085,83240,Accounting
+1086,52000,Information Technology
+1087,32578,Property
+1088,76800,Transport
+1089,141000,Design
+1090,45600,Data Storage
+1091,42000,Communications
+1092,83240,Transport
+1093,81000,Retail
+1094,78840,HealthCare
+1095,60000,Government
+1096,141200,Food and Beverages
+1097,80000,Transport
+1098,82500,Manufacturing
+1099,73000,Transport
+1100,72000,Information Technology
+1101,85000,Information Technology
+1102,53000,Transport
+1103,47900,Electronics
+1104,75000,Government
+1105,110000,Design
+1106,78000,Investment
+1107,206800,Service
+1108,32587,Manufacturing
+1109,54000,Information Technology
+1110,31008,Government
+1111,76000,Property
+1112,73000,Communications
+1113,42000,Property
+1114,76000,Logistics
+1115,57680,Transport
+1116,80000,Property
+1117,77500,Transport
+1118,90000,Energy and Utility
+1119,42360,Consulting
+1120,80000,Information Technology
+1121,43250,Security
+1122,75000,Investment
+1123,39800,Communications
+1124,60000,Data Storage
+1125,56000,Transport
+1126,63260,Government
+1127,60000,Information Technology
+1128,127590,Food and Beverages
+1129,72000,Government
+1130,81100,Transport
+1131,46000,Accounting
+1132,45000,Communications
+1133,85000,Energy and Utility
+1134,52000,Security
+1135,45980,HealthCare
+1136,42000,Communications
+1137,48000,Security
+1138,198500,Banking and Finance
+1139,50000,Marine
+1140,148000,Transport
+1141,51700,Energy and Utility
+1142,56680,Information Technology
+1143,79500,Entertainment
+1144,79200,Accounting
+1145,46000,Property
+1146,35000,Diversified
+1147,47000,Security
+1148,44000,Education
+1149,107000,Security
+1150,55000,Retail
+1151,49800,Retail
+1152,79120,Transport
+1153,30854,Media
+1154,53000,Agribusiness
+1155,65000,Information Technology
+1156,45600,Marine
+1157,54600,Diversified
+1158,48400,Design
+1159,74000,Investment
+1160,62590,Transport
+1161,132000,Design
+1162,75000,Transport
+1163,55000,Communications
+1164,74000,Communications
+1165,46890,HealthCare
+1166,60000,Transport
+1167,45000,HealthCare
+1168,43120,Electronics
+1169,49000,Retail
+1170,85000,Energy and Utility
+1171,83000,Government
+1172,67000,Investment
+1173,45160,Transport
+1174,57000,Marine
+1175,71000,Government
+1176,57800,Electronics
+1177,55000,Communications
+1178,30883,Communications
+1179,63500,Diversified
+1180,75000,Information Technology
+1181,54000,Communications
+1182,60000,Retail
+1183,53000,Communications
+1184,90000,Accounting
+1185,58000,Property
+1186,81120,Transport
+1187,52000,Education
+1188,81000,Transport
+1189,60000,Security
+1190,88000,Banking and Finance
+1191,69000,Banking and Finance
+1192,73200,Diversified
+1193,221000,Investment
+1194,78000,Property
+1195,221000,Energy and Utility
+1196,75000,HealthCare
+1197,55000,Energy and Utility
+1198,36440,Food and Beverages
+1199,33402,Transport
+1200,44000,Banking and Finance
+1201,80000,Transport
+1202,48000,Food and Beverages
+1203,59000,Energy and Utility
+1204,56300,Entertainment
+1205,47000,Government
+1206,125000,Manufacturing
+1207,49000,Manufacturing
+1208,42000,Transport
+1209,52000,Food and Beverages
+1210,69000,Retail
+1211,46000,Manufacturing
+1212,81000,Transport
+1213,81880,Transport
+1214,65000,Government
+1215,89000,Banking and Finance
+1216,50680,Information Technology
+1217,52000,Accounting
+1218,63000,Government
+1219,51600,Manufacturing
+1220,78000,Transport
+1221,75900,Investment
+1222,49850,Energy and Utility
+1223,202000,Manufacturing
+1224,33406,Transport
+1225,44000,Data Storage
+1226,148000,Transport
+1227,51100,Transport
+1228,111000,Education
+1229,92000,Property
+1230,134560,Transport
+1231,227000,Education
+1232,57000,Manufacturing
+1233,43500,Property
+1234,55000,Investment
+1235,69990,Property
+1236,49000,HealthCare
+1237,52000,Manufacturing
+1238,53000,Transport
+1239,81000,Property
+1240,78880,Energy and Utility
+1241,51230,Manufacturing
+1242,101000,HealthCare
+1243,49600,Communications
+1244,80560,Service
+1245,74000,Accounting
+1246,49600,Communications
+1247,92000,Energy and Utility
+1248,52000,Manufacturing
+1249,36000,Food and Beverages
+1250,47000,Property
+1251,80560,Banking and Finance
+1252,75000,Government
+1253,148960,Service
+1254,59100,Information Technology
+1255,79500,Transport
+1256,82700,Retail
+1257,45000,Investment
+1258,55000,Transport
+1259,48900,Information Technology
+1260,37000,Transport
+1261,43200,HealthCare
+1262,50000,Retail
+1263,47000,Design
+1264,69520,Transport
+1265,83000,Property
+1266,55000,HealthCare
+1267,83000,Investment
+1268,83240,HealthCare
+1269,44790,Manufacturing
+1270,57000,Diversified
+1271,107000,Design
+1272,96320,Consulting
+1273,74000,Accounting
+1274,205600,Property
+1275,76000,HealthCare
+1276,107000,Food and Beverages
+1277,43500,Food and Beverages
+1278,75000,Transport
+1279,53600,Information Technology
+1280,55000,Communications
+1281,46000,Transport
+1282,139680,Consulting
+1283,52000,HealthCare
+1284,42580,Property
+1285,33429,HealthCare
+1286,56800,Security
+1287,42000,Retail
+1288,80000,Investment
+1289,99000,Investment
+1290,73000,Investment
+1291,49560,Banking and Finance
+1292,58950,Manufacturing
+1293,95000,Education
+1294,52000,Property
+1295,68300,Communications
+1296,222680,Manufacturing
+1297,59000,Property
+1298,49000,Media
+1299,80800,Manufacturing
+1300,83000,HealthCare
+1301,42000,Transport
+1302,78000,Information Technology
+1303,44000,Retail
+1304,73000,Transport
+1305,83500,Design
+1306,56000,Transport
+1307,46000,Transport
+1308,52080,Information Technology
+1309,73200,Information Technology
+1310,95000,Design
+1311,60000,Electronics
+1312,76000,Communications
+1313,28656,Accounting
+1314,42000,HealthCare
+1315,52650,HealthCare
+1316,74000,Property
+1317,48000,Food and Beverages
+1318,33443,Government
+1319,45000,Education
+1320,38000,Transport
+1321,222720,Banking and Finance
+1322,43000,Retail
+1323,56000,Investment
+1324,53000,Transport
+1325,68000,Retail
+1326,88000,Energy and Utility
+1327,55000,Government
+1328,47900,Electronics
+1329,43000,Property
+1330,47000,Manufacturing
+1331,45000,Service
+1332,41000,Diversified
+1333,54000,Communications
+1334,43000,Transport
+1335,135500,Security
+1336,73040,Communications
+1337,73360,Accounting
+1338,54000,Manufacturing
+1339,65950,Food and Beverages
+1340,47520,Security
+1341,80400,Consulting
+1342,65000,Investment
+1343,33446,Transport
+1344,149000,Electronics
+1345,88000,Energy and Utility
+1346,100000,Media
+1347,79120,Property
+1348,190000,Transport
+1349,45200,Property
+1350,53000,Education
+1351,42000,Communications
+1352,139680,Diversified
+1353,48920,Transport
+1354,45600,Investment
+1355,43000,Entertainment
+1356,32595,Banking and Finance
+1357,88100,Investment
+1358,54000,Property
+1359,89000,Manufacturing
+1360,54960,Manufacturing
+1361,47000,Security
+1362,65800,Manufacturing
+1363,199300,Energy and Utility
+1364,75000,Security
+1365,43000,Communications
+1366,51000,Transport
+1367,35960,Property
+1368,43200,Property
+1369,44010,Transport
+1370,48400,HealthCare
+1371,47520,Food and Beverages
+1372,56000,Investment
+1373,149000,Security
+1374,68700,Property
+1375,53000,Information Technology
+1376,42000,Food and Beverages
+1377,53600,Manufacturing
+1378,245700,Transport
+1379,36850,Food and Beverages
+1380,98000,Property
+1381,101011,Investment
+1382,79850,Design
+1383,80600,Banking and Finance
+1384,32601,Food and Beverages
+1385,52000,Communications
+1386,88320,Design
+1387,58000,Property
+1388,65900,Information Technology
+1389,75000,Education
+1390,73400,Transport
+1391,75690,Diversified
+1392,51000,Property
+1393,57000,Property
+1394,67590,Investment
+1395,49500,Food and Beverages
+1396,73440,Diversified
+1397,42240,Retail
+1398,53000,Communications
+1399,68000,Transport
+1400,60000,Security
+1401,73000,HealthCare
+1402,73000,Transport
+1403,68000,HealthCare
+1404,79000,Property
+1405,33460,Diversified
+1406,50500,Security
+1407,54000,Manufacturing
+1408,88000,Accounting
+1409,48000,Information Technology
+1410,33491,Retail
+1411,74000,Education
+1412,58000,Communications
+1413,48100,Property
+1414,53600,Security
+1415,79000,Transport
+1416,149100,Communications
+1417,75000,Manufacturing
+1418,58000,HealthCare
+1419,58000,Information Technology
+1420,149600,Security
+1421,75000,Marine
+1422,41000,Communications
+1423,79000,Accounting
+1424,64000,Diversified
+1425,73500,Food and Beverages
+1426,51000,Communications
+1427,26900,HealthCare
+1428,39621,Retail
+1429,73000,Transport
+1430,35620,Food and Beverages
+1431,76530,Electronics
+1432,50700,Diversified
+1433,56300,Transport
+1434,60200,Media
+1435,46000,Security
+1436,58000,Manufacturing
+1437,56000,Diversified
+1438,55000,Banking and Finance
+1439,40000,Information Technology
+1440,246000,HealthCare
+1441,104000,Food and Beverages
+1442,223000,Media
+1443,43000,Investment
+1444,75000,Communications
+1445,149640,Accounting
+1446,75000,Data Storage
+1447,56000,Transport
+1448,43565,Transport
+1449,80500,Transport
+1450,89000,Banking and Finance
+1451,96000,Property
+1452,56000,Government
+1453,46000,Transport
+1454,68542,Investment
+1455,81000,Security
+1456,56960,Security
+1457,43800,Retail
+1458,36900,Retail
+1459,48000,Diversified
+1460,136300,Design
+1461,82720,Entertainment
+1462,80000,Food and Beverages
+1463,36720,Food and Beverages
+1464,49000,Electronics
+1465,279000,Transport
+1466,56000,Information Technology
+1467,82760,Information Technology
+1468,50201,Marine
+1469,45000,Property
+1470,69000,Property
+1471,79000,Property
+1472,42320,Food and Beverages
+1473,139600,Investment
+1474,63000,Investment
+1475,57920,Media
+1476,49680,Diversified
+1477,30575,Manufacturing
+1478,45000,Entertainment
+1479,31000,Transport
+1480,73000,Government
+1481,46000,Entertainment
+1482,51000,Transport
+1483,33045,Food and Beverages
+1484,48000,Food and Beverages
+1485,54000,Data Storage
+1486,96000,Communications
+1487,39000,Diversified
+1488,40560,Diversified
+1489,55960,Marine
+1490,107040,Banking and Finance
+1491,95000,HealthCare
+1492,88400,HealthCare
+1493,71000,Accounting
+1494,50000,Manufacturing
+1495,42360,Property
+1496,246440,Transport
+1497,52000,Investment
+1498,53000,Marine
+1499,50000,Accounting
+1500,56800,Government
+1501,44890,Property
+1502,83000,Property
+1503,56895,HealthCare
+1504,76000,Property
+1505,47000,Electronics
+1506,50000,Government
+1507,49680,Information Technology
+1508,51500,Electronics
+1509,201500,Transport
+1510,49000,Manufacturing
+1511,50000,Banking and Finance
+1512,30297,Transport
+1513,47900,HealthCare
+1514,59000,Food and Beverages
+1515,50000,Transport
+1516,192000,Manufacturing
+1517,83800,Banking and Finance
+1518,74500,Property
+1519,221000,Property
+1520,43000,Security
+1521,44100,Security
+1522,59600,Communications
+1523,38690,HealthCare
+1524,93000,Transport
+1525,149700,Property
+1526,79000,Property
+1527,77000,Marine
+1528,75000,Transport
+1529,45000,Property
+1530,209320,Investment
+1531,35000,Media
+1532,41040,Entertainment
+1533,53000,Accounting
+1534,31214,Media
+1535,208000,Investment
+1536,55000,Communications
+1537,53040,Service
+1538,51000,Banking and Finance
+1539,51000,Security
+1540,59000,Information Technology
+1541,90000,Logistics
+1542,178000,Manufacturing
+1543,159630,Transport
+1544,57000,Property
+1545,74000,Information Technology
+1546,64000,Manufacturing
+1547,100000,Transport
+1548,78000,Information Technology
+1549,43580,Electronics
+1550,49500,Banking and Finance
+1551,50000,HealthCare
+1552,247000,Security
+1553,59000,Information Technology
+1554,96100,Communications
+1555,41260,Electronics
+1556,55000,Property
+1557,49500,Retail
+1558,48000,HealthCare
+1559,53800,Manufacturing
+1560,67000,Government
+1561,69000,Information Technology
+1562,44000,Property
+1563,35000,Energy and Utility
+1564,68000,Agribusiness
+1565,58100,Investment
+1566,52000,Manufacturing
+1567,33053,Transport
+1568,57800,Transport
+1569,53000,Communications
+1570,46000,Communications
+1571,78500,Transport
+1572,84000,Investment
+1573,55000,Energy and Utility
+1574,52000,Investment
+1575,247000,Security
+1576,103200,Transport
+1577,49000,Information Technology
+1578,81000,Security
+1579,56890,Security
+1580,80000,Property
+1581,69000,Transport
+1582,73000,Marine
+1583,59000,Property
+1584,57000,Investment
+1585,55000,Communications
+1586,40000,Retail
+1587,50000,Transport
+1588,150000,Communications
+1589,59000,Transport
+1590,60000,HealthCare
+1591,80000,Transport
+1592,57500,Transport
+1593,80400,Information Technology
+1594,41000,Information Technology
+1595,82000,HealthCare
+1596,85000,Transport
+1597,42000,Information Technology
+1598,82900,Electronics
+1599,136900,Energy and Utility
+1600,33000,Transport
+1601,78000,Investment
+1602,56800,Property
+1603,51000,Manufacturing
+1604,54000,HealthCare
+1605,46000,Property
+1606,90120,Consulting
+1607,43000,Investment
+1608,32618,HealthCare
+1609,31950,Manufacturing
+1610,52000,Transport
+1611,49000,Diversified
+1612,51000,Transport
+1613,52000,Manufacturing
+1614,52000,Banking and Finance
+1615,45000,Property
+1616,47000,Transport
+1617,45000,Government
+1618,150000,Communications
+1619,247280,Manufacturing
+1620,42720,Education
+1621,150000,Diversified
+1622,56360,Food and Beverages
+1623,78000,Security
+1624,50000,Banking and Finance
+1625,52000,HealthCare
+1626,58000,Retail
+1627,63000,Government
+1628,83240,Transport
+1629,71000,Government
+1630,51000,Communications
+1631,46000,Investment
+1632,73100,Manufacturing
+1633,248000,Manufacturing
+1634,80600,Communications
+1635,80000,Information Technology
+1636,62590,Diversified
+1637,107100,Transport
+1638,33812,Food and Beverages
+1639,47980,HealthCare
+1640,132000,Transport
+1641,89000,Transport
+1642,56800,Government
+1643,104000,Property
+1644,50000,Manufacturing
+1645,73600,Property
+1646,78500,Information Technology
+1647,73600,Energy and Utility
+1648,54000,HealthCare
+1649,53000,Communications
+1650,78000,Communications
+1651,73000,Manufacturing
+1652,79160,Transport
+1653,65960,Manufacturing
+1654,185000,Electronics
+1655,59000,Banking and Finance
+1656,56000,Communications
+1657,75000,HealthCare
+1658,79000,Transport
+1659,73100,Media
+1660,52000,Accounting
+1661,60000,Food and Beverages
+1662,38000,Food and Beverages
+1663,50300,Banking and Finance
+1664,76000,Transport
+1665,50000,Food and Beverages
+1666,150000,Diversified
+1667,81900,Information Technology
+1668,56360,Energy and Utility
+1669,56400,Manufacturing
+1670,111946,Banking and Finance
+1671,55000,Information Technology
+1672,62000,HealthCare
+1673,90000,Manufacturing
+1674,75000,Transport
+1675,52000,Marine
+1676,96360,Banking and Finance
+1677,51000,Manufacturing
+1678,78000,Property
+1679,60000,Electronics
+1680,43000,Food and Beverages
+1681,96000,Energy and Utility
+1682,69000,Diversified
+1683,78000,Transport
+1684,74000,Transport
+1685,52300,Education
+1686,39650,Food and Beverages
+1687,43265,Service
+1688,201200,Transport
+1689,52080,Banking and Finance
+1690,64359,Agribusiness
+1691,75000,Property
+1692,43000,Manufacturing
+1693,77000,HealthCare
+1694,46890,Service
+1695,54000,Property
+1696,48500,Property
+1697,123500,HealthCare
+1698,45000,Communications
+1699,45000,Energy and Utility
+1700,51010,Information Technology
+1701,78600,Design
+1702,52000,Retail
+1703,74236,Investment
+1704,100000,Information Technology
+1705,49000,Property
+1706,45000,Retail
+1707,56800,Manufacturing
+1708,52000,Government
+1709,49850,Manufacturing
+1710,43200,Food and Beverages
+1711,43000,Communications
+1712,58962,Retail
+1713,54000,Agribusiness
+1714,96000,Media
+1715,81000,Security
+1716,47000,Security
+1717,150000,Diversified
+1718,65230,Transport
+1719,46000,Food and Beverages
+1720,39680,Investment
+1721,78000,Transport
+1722,81000,Property
+1723,83320,Logistics
+1724,54000,Agribusiness
+1725,78000,Diversified
+1726,53000,Manufacturing
+1727,135000,Transport
+1728,249440,Consulting
+1729,75000,Logistics
+1730,104100,Transport
+1731,48500,Manufacturing
+1732,73640,Information Technology
+1733,107200,Consulting
+1734,48000,Food and Beverages
+1735,45600,HealthCare
+1736,60000,Banking and Finance
+1737,33000,Food and Beverages
+1738,135000,Design
+1739,201280,Manufacturing
+1740,60000,Manufacturing
+1741,60000,Manufacturing
+1742,42000,Information Technology
+1743,52160,Transport
+1744,80600,Manufacturing
+1745,56800,Property
+1746,58000,Media
+1747,46080,Food and Beverages
+1748,42000,Information Technology
+1749,45800,Design
+1750,51000,Security
+1751,41280,Transport
+1752,53040,Transport
+1753,150000,Energy and Utility
+1754,56400,Information Technology
+1755,57040,Information Technology
+1756,73000,Property
+1757,47520,Transport
+1758,46080,Information Technology
+1759,78000,HealthCare
+1760,42000,Food and Beverages
+1761,90000,Investment
+1762,76000,Transport
+1763,81000,Accounting
+1764,42000,Security
+1765,50000,Diversified
+1766,81000,Retail
+1767,105000,Logistics
+1768,85000,Investment
+1769,129500,Manufacturing
+1770,75000,HealthCare
+1771,51000,Communications
+1772,50000,Communications
+1773,61000,Banking and Finance
+1774,47600,Transport
+1775,53000,Manufacturing
+1776,63000,HealthCare
+1777,47000,Manufacturing
+1778,49000,Banking and Finance
+1779,53680,Transport
+1780,44560,Transport
+1781,59000,Retail
+1782,42000,Investment
+1783,42000,Design
+1784,73000,Transport
+1785,59632,Manufacturing
+1786,48000,Investment
+1787,59800,Communications
+1788,59280,Information Technology
+1789,53000,Energy and Utility
+1790,81000,HealthCare
+1791,42000,Banking and Finance
+1792,249600,Communications
+1793,46100,Investment
+1794,43000,Property
+1795,50000,Retail
+1796,83000,Investment
+1797,67000,Communications
+1798,54000,Retail
+1799,65000,Information Technology
+1800,78000,Property
+1801,42000,Manufacturing
+1802,103200,Consulting
+1803,50640,Information Technology
+1804,53000,Electronics
+1805,51000,Transport
+1806,81320,Transport
+1807,58100,Investment
+1808,199000,Investment
+1809,73800,HealthCare
+1810,97000,Investment
+1811,58000,Information Technology
+1812,43440,Manufacturing
+1813,104600,Property
+1814,52320,Communications
+1815,56000,HealthCare
+1816,48120,Information Technology
+1817,60000,Consulting
+1818,52000,Transport
+1819,80600,Manufacturing
+1820,77000,Investment
+1821,56440,Information Technology
+1822,68000,Transport
+1823,35000,Food and Beverages
+1824,47000,HealthCare
+1825,250000,Electronics
+1826,32666,Banking and Finance
+1827,55000,Communications
+1828,57000,Property
+1829,55000,Manufacturing
+1830,31899,Communications
+1831,102300,HealthCare
+1832,44000,Security
+1833,45000,Diversified
+1834,81000,Transport
+1835,58000,Agribusiness
+1836,59000,Information Technology
+1837,139700,Communications
+1838,69100,Energy and Utility
+1839,73000,Media
+1840,49600,Communications
+1841,30596,Manufacturing
+1842,50000,Security
+1843,31200,Hospitality
+1844,52000,Manufacturing
+1845,28656,Accounting
+1846,58000,Marine
+1847,47600,Security
+1848,53000,Manufacturing
+1849,29600,Communications
+1850,54000,Government
+1851,48000,Design
+1852,35000,Logistics
+1853,55000,Manufacturing
+1854,53000,Electronics
+1855,79000,Transport
+1856,79500,HealthCare
+1857,50960,HealthCare
+1858,48600,Data Storage
+1859,43000,Security
+1860,56520,Information Technology
+1861,73590,Transport
+1862,83000,Property
+1863,73000,Manufacturing
+1864,105000,Energy and Utility
+1865,35800,Manufacturing
+1866,79560,Entertainment
+1867,69880,Service
+1868,48000,Diversified
+1869,78000,Transport
+1870,75000,Communications
+1871,81000,Transport
+1872,107600,Security
+1873,92000,Electronics
+1874,58000,Information Technology
+1875,52100,Media
+1876,76000,Accounting
+1877,199000,Information Technology
+1878,41400,HealthCare
+1879,52000,Communications
+1880,52300,HealthCare
+1881,212000,Electronics
+1882,83000,Marine
+1883,52000,Investment
+1884,58800,Retail
+1885,74080,Manufacturing
+1886,72000,Energy and Utility
+1887,79000,Investment
+1888,78000,Transport
+1889,42000,Transport
+1890,51000,Education
+1891,42000,Education
+1892,75923,Transport
+1893,41000,Retail
+1894,55000,Information Technology
+1895,47040,Security
+1896,43500,Diversified
+1897,81900,Transport
+1898,42000,Investment
+1899,52000,Transport
+1900,73920,Information Technology
+1901,59680,Transport
+1902,50000,Communications
+1903,104400,HealthCare
+1904,123749,Manufacturing
+1905,150000,Property
+1906,82900,Property
+1907,78000,Communications
+1908,42000,Communications
+1909,52000,Design
+1910,150000,Manufacturing
+1911,201000,Transport
+1912,42480,Energy and Utility
+1913,42000,Investment
+1914,32496,Media
+1915,42000,Transport
+1916,52300,Retail
+1917,46100,Food and Beverages
+1918,217000,Investment
+1919,89000,Manufacturing
+1920,33641,Agribusiness
+1921,75000,Communications
+1922,42000,Information Technology
+1923,42100,Manufacturing
+1924,73000,Media
+1925,139600,Transport
+1926,37200,Logistics
+1927,75000,Banking and Finance
+1928,75000,Marine
+1929,84000,Investment
+1930,67000,Transport
+1931,77000,Transport
+1932,60000,Property
+1933,73200,Transport
+1934,39880,Transport
+1935,58100,Government
+1936,33000,Diversified
+1937,78000,Property
+1938,70000,Information Technology
+1939,49600,Diversified
+1940,250000,Manufacturing
+1941,57900,Retail
+1942,130000,Transport
+1943,47100,Transport
+1944,63000,Government
+1945,63000,Communications
+1946,178500,Energy and Utility
+1947,78000,Marine
+1948,97000,Investment
+1949,150000,Data Storage
+1950,201600,Accounting
+1951,54000,Diversified
+1952,42000,Design
+1953,59000,Investment
+1954,79800,Food and Beverages
+1955,42400,Education
+1956,57000,Marine
+1957,295000,Transport
+1958,50000,Security
+1959,40000,Retail
+1960,51720,HealthCare
+1961,50000,Banking and Finance
+1962,123000,Transport
+1963,59000,Retail
+1964,59630,HealthCare
+1965,45000,Communications
+1966,41280,Investment
+1967,50000,Security
+1968,52680,Investment
+1969,56440,Security
+1970,48000,HealthCare
+1971,98000,Security
+1972,55000,HealthCare
+1973,107880,Media
+1974,202000,Banking and Finance
+1975,54000,Manufacturing
+1976,59000,Communications
+1977,80000,Transport
+1978,159000,Diversified
+1979,50100,Communications
+1980,52000,HealthCare
+1981,44100,Security
+1982,78120,Security
+1983,52000,Manufacturing
+1984,73240,Manufacturing
+1985,53000,Diversified
+1986,69500,Communications
+1987,76000,Transport
+1988,50000,Banking and Finance
+1989,196600,Investment
+1990,197000,Logistics
+1991,90000,Banking and Finance
+1992,78000,Investment
+1993,60000,HealthCare
+1994,52000,HealthCare
+1995,48520,Communications
+1996,50700,Communications
+1997,31106,Security
+1998,51000,Banking and Finance
+1999,51400,HealthCare
+2000,197000,Transport
+2001,250000,Transport
+2002,47100,Transport
+2003,48900,Information Technology
+2004,250000,HealthCare
+2005,82000,Property
+2006,73240,Transport
+2007,81000,Property
+2008,47200,Security
+2009,57000,Banking and Finance
+2010,55000,Retail
+2011,150100,Security
+2012,250000,HealthCare
+2013,50000,Communications
+2014,49000,Manufacturing
+2015,58000,Marine
+2016,58960,Investment
+2017,74000,Transport
+2018,49000,Manufacturing
+2019,75000,Communications
+2020,41520,Diversified
+2021,97000,Energy and Utility
+2022,48000,Manufacturing
+2023,97000,Education
+2024,57000,Transport
+2025,52000,HealthCare
+2026,198960,Energy and Utility
+2027,53120,Information Technology
+2028,57000,HealthCare
+2029,73000,Investment
+2030,51720,Government
+2031,81000,Transport
+2032,52000,Retail
+2033,54000,Accounting
+2034,42000,Diversified
+2035,32154,Food and Beverages
+2036,50000,Communications
+2037,50000,Security
+2038,142600,Property
+2039,51000,HealthCare
+2040,60000,Communications
+2041,79000,Property
+2042,73360,Property
+2043,56440,Retail
+2044,59100,Energy and Utility
+2045,108000,Property
+2046,48560,Energy and Utility
+2047,150750,Diversified
+2048,225500,Investment
+2049,99600,Transport
+2050,48000,Property
+2051,81000,Government
+2052,33681,Retail
+2053,48000,HealthCare
+2054,136800,Investment
+2055,60000,Manufacturing
+2056,80000,Property
+2057,54000,Property
+2058,79000,Investment
+2059,137000,Energy and Utility
+2060,84240,Accounting
+2061,49000,Government
+2062,81000,Energy and Utility
+2063,51000,Communications
+2064,46100,Transport
+2065,73400,Communications
+2066,79000,Transport
+2067,42000,Education
+2068,151000,Manufacturing
+2069,55000,Retail
+2070,80600,Media
+2071,52000,Manufacturing
+2072,81000,Transport
+2073,48120,Government
+2074,80000,Information Technology
+2075,76000,Manufacturing
+2076,74000,Property
+2077,201000,HealthCare
+2078,51000,Investment
+2079,198200,Manufacturing
+2080,54000,Manufacturing
+2081,108240,Consulting
+2082,84400,Electronics
+2083,52000,Diversified
+2084,39000,HealthCare
+2085,49000,Logistics
+2086,75000,Manufacturing
+2087,33065,Manufacturing
+2088,52000,HealthCare
+2089,33683,Government
+2090,48000,Property
+2091,108300,Electronics
+2092,46200,Communications
+2093,49000,Property
+2094,48000,Transport
+2095,50000,Manufacturing
+2096,60000,Communications
+2097,50100,Communications
+2098,45200,Design
+2099,39000,Manufacturing
+2100,51000,Information Technology
+2101,48900,Property
+2102,48900,Transport
+2103,75000,Transport
+2104,151000,Energy and Utility
+2105,79000,HealthCare
+2106,97000,Design
+2107,201400,Transport
+2108,48120,Banking and Finance
+2109,50000,Manufacturing
+2110,42000,Security
+2111,73500,Diversified
+2112,42000,Security
+2113,43000,Energy and Utility
+2114,41600,HealthCare
+2115,80600,Design
+2116,73000,Security
+2117,51000,Retail
+2118,49000,Investment
+2119,57000,Communications
+2120,204400,Design
+2121,221500,Property
+2122,42000,Communications
+2123,30599,Manufacturing
+2124,81000,Communications
+2125,50000,Security
+2126,52000,Banking and Finance
+2127,77000,Transport
+2128,78200,Transport
+2129,73000,Media
+2130,60000,Property
+2131,44100,Banking and Finance
+2132,48000,Communications
+2133,47000,Security
+2134,46240,Manufacturing
+2135,49000,Education
+2136,78010,Food and Beverages
+2137,104400,Transport
+2138,54284,Transport
+2139,83000,Communications
+2140,32156,Food and Beverages
+2141,33693,Government
+2142,52100,Manufacturing
+2143,42000,Transport
+2144,47000,Communications
+2145,47000,Security
+2146,33747,Transport
+2147,52000,Electronics
+2148,60000,Transport
+2149,250100,Communications
+2150,48000,Investment
+2151,75000,Investment
+2152,74000,Accounting
+2153,55000,Retail
+2154,54000,Government
+2155,80200,Transport
+2156,224500,Communications
+2157,108480,Diversified
+2158,42000,Energy and Utility
+2159,73500,Transport
+2160,73040,Transport
+2161,45600,HealthCare
+2162,57000,Electronics
+2163,77000,Investment
+2164,59000,Communications
+2165,41680,HealthCare
+2166,60000,Communications
+2167,41920,Retail
+2168,42000,Food and Beverages
+2169,47000,Transport
+2170,46360,Design
+2171,74000,Transport
+2172,76000,Transport
+2173,74000,Property
+2174,74120,Retail
+2175,151000,Design
+2176,55040,Diversified
+2177,222000,Data Storage
+2178,50000,Education
+2179,60000,Property
+2180,44100,Banking and Finance
+2181,103200,Education
+2182,60010,Information Technology
+2183,54000,Communications
+2184,82000,Investment
+2185,77800,Communications
+2186,51000,Information Technology
+2187,77500,Transport
+2188,51500,Manufacturing
+2189,108720,Banking and Finance
+2190,46360,Accounting
+2191,75010,Transport
+2192,198000,Information Technology
+2193,49000,Retail
+2194,77000,Property
+2195,76040,Marine
+2196,88800,Information Technology
+2197,55100,Retail
+2198,55100,Security
+2199,51000,Security
+2200,54000,Electronics
+2201,83000,Information Technology
+2202,250900,Food and Beverages
+2203,80000,Banking and Finance
+2204,73500,Transport
+2205,42000,Transport
+2206,42000,Security
+2207,59000,Communications
+2208,91000,Accounting
+2209,54000,HealthCare
+2210,74000,Transport
+2211,74000,Property
+2212,42000,Transport
+2213,54000,Communications
+2214,83000,Transport
+2215,237000,Media
+2216,30301,Electronics
+2217,53000,Retail
+2218,84400,Design
+2219,108720,Banking and Finance
+2220,48000,Information Technology
+2221,74000,Transport
+2222,76100,Property
+2223,91000,Information Technology
+2224,44600,Security
+2225,80600,Property
+2226,202000,Diversified
+2227,59100,Transport
+2228,80640,Transport
+2229,78000,Transport
+2230,80880,Transport
+2231,95000,Electronics
+2232,251240,Food and Beverages
+2233,58100,Property
+2234,46400,HealthCare
+2235,44160,Diversified
+2236,83000,Property
+2237,199000,Investment
+2238,49560,Food and Beverages
+2239,48600,Banking and Finance
+2240,48680,Diversified
+2241,60010,Information Technology
+2242,52000,Diversified
+2243,81640,Transport
+2244,239000,HealthCare
+2245,74120,Electronics
+2246,195040,Media
+2247,198200,Retail
+2248,109000,Consulting
+2249,74000,Government
+2250,52000,Property
+2251,84800,Diversified
+2252,201480,Service
+2253,47500,Data Storage
+2254,51800,Security
+2255,83000,Investment
+2256,74000,Security
+2257,80200,Transport
+2258,46800,Design
+2259,51000,Marine
+2260,82000,Property
+2261,79000,Transport
+2262,60000,Communications
+2263,57000,HealthCare
+2264,205300,Manufacturing
+2265,80000,Investment
+2266,109000,Marine
+2267,73000,Transport
+2268,205000,Consulting
+2269,59000,Retail
+2270,83000,Property
+2271,169000,Investment
+2272,109000,Media
+2273,49000,Entertainment
+2274,89000,Banking and Finance
+2275,73000,Investment
+2276,29630,Manufacturing
+2277,46000,Communications
+2278,82000,Transport
+2279,85000,Investment
+2280,45640,Transport
+2281,50000,Information Technology
+2282,79500,HealthCare
+2283,50000,Diversified
+2284,48000,Retail
+2285,50000,Communications
+2286,201500,Retail
+2287,109000,Design
+2288,152000,Diversified
+2289,47000,Security
+2290,42000,HealthCare
+2291,51500,Electronics
+2292,52000,Investment
+2293,60000,Entertainment
+2294,53000,HealthCare
+2295,52000,Design
+2296,201000,Information Technology
+2297,44160,Information Technology
+2298,42000,Transport
+2299,77000,Property
+2300,82000,Information Technology
+2301,78000,Investment
+2302,51000,Property
+2303,97100,Banking and Finance
+2304,37320,Food and Beverages
+2305,88800,Food and Beverages
+2306,48960,Information Technology
+2307,98000,Communications
+2308,80500,Manufacturing
+2309,40000,Property
+2310,69000,Investment
+2311,178000,HealthCare
+2312,48000,Property
+2313,44000,Entertainment
+2314,42000,Information Technology
+2315,43000,Marine
+2316,55900,Manufacturing
+2317,51000,Property
+2318,48000,Data Storage
+2319,152000,Transport
+2320,59600,Communications
+2321,72000,Retail
+2322,73600,Electronics
+2323,51000,Security
+2324,52720,Communications
+2325,265200,Transport
+2326,78000,Design
+2327,77000,Consulting
+2328,80000,Transport
+2329,52000,Transport
+2330,74000,Property
+2331,37502,Food and Beverages
+2332,48000,Manufacturing
+2333,77000,Information Technology
+2334,48000,Accounting
+2335,56000,Information Technology
+2336,81300,Property
+2337,59800,Transport
+2338,65000,Manufacturing
+2339,67850,Diversified
+2340,143200,Security
+2341,43680,Manufacturing
+2342,48000,Transport
+2343,78000,Design
+2344,83000,Property
+2345,70000,Information Technology
+2346,52000,Property
+2347,71000,Property
+2348,73450,Design
+2349,52720,Security
+2350,83000,Property
+2351,76000,Information Technology
+2352,152000,Electronics
+2353,42000,Communications
+2354,104400,Marine
+2355,56000,Transport
+2356,97200,Property
+2357,49000,Property
+2358,89000,Investment
+2359,152000,Education
+2360,77000,Property
+2361,79160,Property
+2362,79532,Manufacturing
+2363,70000,Communications
+2364,60000,Communications
+2365,48000,Electronics
+2366,42000,Security
+2367,197000,Communications
+2368,54000,Communications
+2369,60000,Hospitality
+2370,252000,Electronics
+2371,46400,Marine
+2372,83000,Property
+2373,76000,Logistics
+2374,73560,Diversified
+2375,202000,Investment
+2376,59000,Transport
+2377,57280,Transport
+2378,75000,Accounting
+2379,33072,Food and Beverages
+2380,55120,Manufacturing
+2381,50100,Government
+2382,49000,Communications
+2383,59280,Information Technology
+2384,82000,Investment
+2385,217500,Manufacturing
+2386,73000,Manufacturing
+2387,30602,Banking and Finance
+2388,59000,Property
+2389,97320,Media
+2390,109000,Design
+2391,205200,Government
+2392,76000,Transport
+2393,75100,Transport
+2394,66000,Communications
+2395,45720,Information Technology
+2396,30602,Retail
+2397,50000,Energy and Utility
+2398,83500,Banking and Finance
+2399,49000,Retail
+2400,43500,Transport
+2401,58160,Property
+2402,39800,Manufacturing
+2403,56900,Transport
+2404,188000,HealthCare
+2405,52300,HealthCare
+2406,75000,Transport
+2407,73000,Property
+2408,55120,Electronics
+2409,47000,Transport
+2410,48000,Communications
+2411,42000,Entertainment
+2412,49160,HealthCare
+2413,50000,Agribusiness
+2414,137010,Transport
+2415,42000,Banking and Finance
+2416,188000,Manufacturing
+2417,109240,Transport
+2418,56000,Manufacturing
+2419,76000,Retail
+2420,75000,Information Technology
+2421,52000,Manufacturing
+2422,58000,HealthCare
+2423,44160,HealthCare
+2424,54000,Communications
+2425,69500,Manufacturing
+2426,68590,Transport
+2427,80200,Transport
+2428,48920,Transport
+2429,46480,Manufacturing
+2430,42000,Retail
+2431,80000,Transport
+2432,63100,Information Technology
+2433,198500,Banking and Finance
+2434,30000,Security
+2435,72350,Property
+2436,98000,Investment
+2437,73000,Manufacturing
+2438,49500,Property
+2439,56820,Electronics
+2440,137010,Transport
+2441,78200,Agribusiness
+2442,53120,Banking and Finance
+2443,32860,Security
+2444,43000,Communications
+2445,32865,Manufacturing
+2446,30627,Manufacturing
+2447,157740,Banking and Finance
+2448,54000,Manufacturing
+2449,33789,Transport
+2450,79405,Transport
+2451,46500,Transport
+2452,49000,Transport
+2453,137100,Design
+2454,57000,Retail
+2455,90500,Property
+2456,54600,HealthCare
+2457,33796,Retail
+2458,45000,Data Storage
+2459,79560,Manufacturing
+2460,33809,HealthCare
+2461,79840,Communications
+2462,42000,Security
+2463,80200,Transport
+2464,90200,Service
+2465,252000,Property
+2466,69000,Communications
+2467,53500,Information Technology
+2468,55000,Information Technology
+2469,74550,Transport
+2470,64000,Investment
+2471,45000,Diversified
+2472,79000,Transport
+2473,46500,Information Technology
+2474,35000,Communications
+2475,45000,Information Technology
+2476,83000,Education
+2477,33815,Food and Beverages
+2478,73640,Communications
+2479,56900,Energy and Utility
+2480,38000,Security
+2481,45200,Retail
+2482,75280,Design
+2483,39160,Information Technology
+2484,48400,Security
+2485,68000,Information Technology
+2486,58000,Security
+2487,79605,Manufacturing
+2488,49040,Security
+2489,69500,Transport
+2490,75400,Manufacturing
+2491,44160,Information Technology
+2492,59400,Transport
+2493,55200,Consulting
+2494,44200,Transport
+2495,52500,Property
+2496,81500,Transport
+2497,49000,Energy and Utility
+2498,137200,Design
+2499,109500,Media
+2500,79000,Property
+2501,83000,Transport
+2502,54000,Property
+2503,64000,Manufacturing
+2504,77000,Logistics
+2505,80960,Transport
+2506,60020,Banking and Finance
+2507,48000,Investment
+2508,109600,Communications
+2509,54800,Property
+2510,50000,Government
+2511,73000,Information Technology
+2512,152000,Diversified
+2513,59650,Property
+2514,52000,Electronics
+2515,45720,Accounting
+2516,59000,Information Technology
+2517,82000,Information Technology
+2518,225000,Manufacturing
+2519,53880,Diversified
+2520,83400,Transport
+2521,45000,Diversified
+2522,137200,Property
+2523,65030,Information Technology
+2524,67000,Manufacturing
+2525,53500,Manufacturing
+2526,55000,Information Technology
+2527,78600,Property
+2528,97320,Transport
+2529,33832,Transport
+2530,96800,Transport
+2531,51000,Marine
+2532,59000,Electronics
+2533,52000,Government
+2534,26596,Food and Beverages
+2535,105000,Banking and Finance
+2536,72000,Logistics
+2537,153120,Banking and Finance
+2538,42000,HealthCare
+2539,51000,HealthCare
+2540,61000,Investment
+2541,78000,Property
+2542,52380,Diversified
+2543,79000,Transport
+2544,72000,Information Technology
+2545,82000,Government
+2546,66000,Marine
+2547,49000,Transport
+2548,53200,Transport
+2549,55200,Security
+2550,79000,Food and Beverages
+2551,43500,Diversified
+2552,153200,Security
+2553,54000,Diversified
+2554,28000,Transport
+2555,60080,Manufacturing
+2556,78000,Transport
+2557,75000,Transport
+2558,65000,Transport
+2559,76000,Transport
+2560,55200,Information Technology
+2561,36500,Manufacturing
+2562,198000,Manufacturing
+2563,197000,Communications
+2564,67000,Communications
+2565,75000,HealthCare
+2566,85240,Consulting
+2567,42000,Food and Beverages
+2568,39670,Food and Beverages
+2569,58000,HealthCare
+2570,69000,Transport
+2571,198100,HealthCare
+2572,201000,Communications
+2573,30632,Retail
+2574,74200,Transport
+2575,48720,Electronics
+2576,45760,Property
+2577,56500,Information Technology
+2578,32692,Manufacturing
+2579,73760,Communications
+2580,59100,Manufacturing
+2581,97700,Food and Beverages
+2582,43000,Transport
+2583,81000,Transport
+2584,90000,Banking and Finance
+2585,143000,Design
+2586,80200,Transport
+2587,53000,Information Technology
+2588,154000,Electronics
+2589,59000,Investment
+2590,30311,Transport
+2591,48000,Transport
+2592,73000,Information Technology
+2593,54000,Manufacturing
+2594,55240,Communications
+2595,31919,Diversified
+2596,73000,Transport
+2597,76760,Banking and Finance
+2598,48000,Banking and Finance
+2599,60100,Food and Beverages
+2600,46500,Transport
+2601,42500,Manufacturing
+2602,60000,HealthCare
+2603,42000,Transport
+2604,52100,Property
+2605,78010,Food and Beverages
+2606,32234,Transport
+2607,78240,Electronics
+2608,195000,Manufacturing
+2609,89000,Banking and Finance
+2610,240000,Security
+2611,59120,Energy and Utility
+2612,154720,Communications
+2613,42000,Property
+2614,74240,Communications
+2615,49000,Retail
+2616,79000,Transport
+2617,42000,Security
+2618,60000,Information Technology
+2619,241500,Education
+2620,77040,Communications
+2621,27013,Media
+2622,48000,Communications
+2623,51000,Government
+2624,57000,Information Technology
+2625,81000,Security
+2626,54000,Communications
+2627,74160,Media
+2628,48720,Education
+2629,57000,Security
+2630,31386,Banking and Finance
+2631,77000,Design
+2632,81000,Energy and Utility
+2633,252000,Communications
+2634,49040,Accounting
+2635,51000,Transport
+2636,205500,Investment
+2637,42800,Manufacturing
+2638,54000,Communications
+2639,80000,Property
+2640,31396,Banking and Finance
+2641,69500,Service
+2642,59000,Communications
+2643,197560,Logistics
+2644,77160,Information Technology
+2645,85600,Accounting
+2646,252000,Transport
+2647,241880,Accounting
+2648,73000,Marine
+2649,56800,Information Technology
+2650,242000,HealthCare
+2651,51900,Government
+2652,47000,Design
+2653,73800,HealthCare
+2654,76040,Consulting
+2655,43500,Information Technology
+2656,31323,Electronics
+2657,46500,Logistics
+2658,42000,Food and Beverages
+2659,78000,Manufacturing
+2660,78000,Investment
+2661,242400,Banking and Finance
+2662,59400,Information Technology
+2663,52000,HealthCare
+2664,201000,Property
+2665,58000,Manufacturing
+2666,50120,Banking and Finance
+2667,80000,Information Technology
+2668,73800,Property
+2669,82000,Communications
+2670,73840,Information Technology
+2671,52000,Communications
+2672,75000,Information Technology
+2673,58000,Food and Beverages
+2674,74160,Communications
+2675,78000,Property
+2676,58000,HealthCare
+2677,52000,Food and Beverages
+2678,47000,Transport
+2679,55240,Information Technology
+2680,33835,Food and Beverages
+2681,52000,Diversified
+2682,42100,Accounting
+2683,33082,Data Storage
+2684,32700,Transport
+2685,59500,Information Technology
+2686,225940,Education
+2687,51000,Communications
+2688,32285,Energy and Utility
+2689,46500,Electronics
+2690,89200,Investment
+2691,75400,Retail
+2692,52760,Property
+2693,48800,Property
+2694,49040,Security
+2695,53000,Data Storage
+2696,83000,Transport
+2697,32703,Food and Beverages
+2698,77100,Investment
+2699,80000,Manufacturing
+2700,143000,Security
+2701,83000,Transport
+2702,252000,Manufacturing
+2703,243000,HealthCare
+2704,102000,Transport
+2705,202000,Investment
+2706,82000,Security
+2707,80010,Property
+2708,33837,Communications
+2709,53000,Manufacturing
+2710,55000,HealthCare
+2711,205600,Design
+2712,32303,Data Storage
+2713,60100,Transport
+2714,48800,Information Technology
+2715,79000,Investment
+2716,46500,Transport
+2717,38800,Transport
+2718,42000,Information Technology
+2719,79200,Accounting
+2720,58000,Information Technology
+2721,60429,Transport
+2722,51000,Data Storage
+2723,48000,HealthCare
+2724,52000,HealthCare
+2725,44240,Banking and Finance
+2726,75400,Manufacturing
+2727,98000,Transport
+2728,52000,Government
+2729,56500,Investment
+2730,79280,Diversified
+2731,80700,Communications
+2732,73000,Transport
+2733,60000,Property
+2734,186000,Electronics
+2735,33843,Investment
+2736,48000,Logistics
+2737,54000,Diversified
+2738,60000,Manufacturing
+2739,49000,Education
+2740,55360,Property
+2741,32310,Investment
+2742,52800,Property
+2743,46500,Information Technology
+2744,78520,Diversified
+2745,52000,Accounting
+2746,53280,HealthCare
+2747,42000,Education
+2748,42000,Communications
+2749,59440,Entertainment
+2750,50000,Government
+2751,42000,Design
+2752,73000,Information Technology
+2753,48960,Banking and Finance
+2754,74320,Transport
+2755,77200,Property
+2756,57000,Marine
+2757,73000,Transport
+2758,51473,Transport
+2759,31756,Transport
+2760,43000,Property
+2761,42000,Entertainment
+2762,53280,Communications
+2763,42100,Accounting
+2764,243800,Manufacturing
+2765,42000,Design
+2766,77728,Investment
+2767,58000,Transport
+2768,31402,Retail
+2769,48000,Electronics
+2770,59000,Investment
+2771,91920,Government
+2772,75400,Retail
+2773,140000,Entertainment
+2774,73000,Diversified
+2775,198240,Information Technology
+2776,245000,Manufacturing
+2777,76000,Transport
+2778,75440,Manufacturing
+2779,53000,Communications
+2780,44000,Property
+2781,90360,Logistics
+2782,78000,Investment
+2783,73880,Transport
+2784,80000,Investment
+2785,90000,Manufacturing
+2786,146000,Transport
+2787,155000,Design
+2788,54000,Manufacturing
+2789,54000,Property
+2790,80000,Investment
+2791,196840,Transport
+2792,83000,Information Technology
+2793,85600,Accounting
+2794,84560,Consulting
+2795,50200,Government
+2796,56000,HealthCare
+2797,83000,HealthCare
+2798,98000,Energy and Utility
+2799,44280,Food and Beverages
+2800,58200,Consulting
+2801,45000,Education
+2802,252000,Manufacturing
+2803,83000,Communications
+2804,73880,HealthCare
+2805,58092,Data Storage
+2806,42000,HealthCare
+2807,46560,Consulting
+2808,74000,Manufacturing
+2809,89400,Information Technology
+2810,75480,Logistics
+2811,43000,Manufacturing
+2812,55000,Information Technology
+2813,49100,Information Technology
+2814,79000,HealthCare
+2815,52000,Manufacturing
+2816,52000,Education
+2817,82000,Logistics
+2818,51000,Marine
+2819,42000,HealthCare
+2820,49100,Manufacturing
+2821,74000,Logistics
+2822,73000,Property
+2823,83000,Energy and Utility
+2824,246000,Manufacturing
+2825,90000,Security
+2826,74360,Media
+2827,138000,Transport
+2828,46560,Transport
+2829,245600,Manufacturing
+2830,98000,Transport
+2831,219360,Consulting
+2832,82000,Manufacturing
+2833,57000,Diversified
+2834,81000,Property
+2835,155920,Education
+2836,125600,Agribusiness
+2837,73000,Government
+2838,78040,Diversified
+2839,117000,Banking and Finance
+2840,150330,Retail
+2841,50000,Manufacturing
+2842,54080,Consulting
+2843,60000,Entertainment
+2844,47640,Entertainment
+2845,79800,Information Technology
+2846,78100,Communications
+2847,102000,Accounting
+2848,48000,Communications
+2849,55000,Media
+2850,79500,Transport
+2851,57000,Government
+2852,46560,Diversified
+2853,58200,Education
+2854,199000,Food and Beverages
+2855,46560,Agribusiness
+2856,50000,Property
+2857,59440,Manufacturing
+2858,54100,Manufacturing
+2859,73000,Property
+2860,199000,Energy and Utility
+2861,31760,Transport
+2862,79000,Security
+2863,49000,Government
+2864,60100,Marine
+2865,50280,Communications
+2866,50000,Diversified
+2867,57000,Diversified
+2868,83400,HealthCare
+2869,43680,Data Storage
+2870,199010,Property
+2871,50000,Communications
+2872,74160,Information Technology
+2873,52000,Communications
+2874,47000,Electronics
+2875,97000,Communications
+2876,47200,Food and Beverages
+2877,69000,Logistics
+2878,78000,Government
+2879,43000,Retail
+2880,83400,Transport
+2881,73000,Transport
+2882,198000,Investment
+2883,113026,Government
+2884,83500,Transport
+2885,39625,Communications
+2886,48000,Security
+2887,73000,Manufacturing
+2888,44280,Manufacturing
+2889,68000,Retail
+2890,75120,Transport
+2891,77890,Transport
+2892,45550,Diversified
+2893,75640,Information Technology
+2894,58000,Government
+2895,95300,Investment
+2896,78000,Government
+2897,58000,Manufacturing
+2898,98280,Banking and Finance
+2899,47000,Retail
+2900,76000,HealthCare
+2901,80000,Energy and Utility
+2902,71500,Property
+2903,46500,Diversified
+2904,78000,Property
+2905,75000,Property
+2906,63500,Communications
+2907,78100,Communications
+2908,40000,Investment
+2909,77000,Marine
+2910,38250,Retail
+2911,82000,Transport
+2912,45000,Retail
+2913,75000,Information Technology
+2914,47000,Transport
+2915,49000,Communications
+2916,52000,Agribusiness
+2917,57000,Manufacturing
+2918,32596,Food and Beverages
+2919,49640,Food and Beverages
+2920,34000,Media
+2921,75640,Transport
+2922,65000,Transport
+2923,45000,Property
+2924,53000,Property
+2925,69000,Manufacturing
+2926,56520,Transport
+2927,83000,Manufacturing
+2928,49000,Security
+2929,45240,Security
+2930,59000,Banking and Finance
+2931,81000,Property
+2932,68000,Communications
+2933,44000,Entertainment
+2934,48650,Manufacturing
+2935,46800,Energy and Utility
+2936,79000,Accounting
+2937,46890,Consulting
+2938,73000,Accounting
+2939,60000,Energy and Utility
+2940,105000,Design
+2941,58000,Information Technology
+2942,58000,HealthCare
+2943,53000,Marine
+2944,70000,HealthCare
+2945,49000,Transport
+2946,30691,Manufacturing
+2947,44320,Design
+2948,150000,Data Storage
+2949,197500,Investment
+2950,55000,HealthCare
+2951,79000,Manufacturing
+2952,81000,Security
+2953,85000,Banking and Finance
+2954,69000,Consulting
+2955,252000,Food and Beverages
+2956,75000,HealthCare
+2957,80000,Entertainment
+2958,60000,Diversified
+2959,80000,Security
+2960,59650,Retail
+2961,75900,Service
+2962,53280,Food and Beverages
+2963,55000,Transport
+2964,70300,Investment
+2965,63000,HealthCare
+2966,74160,Property
+2967,51000,Media
+2968,60000,Transport
+2969,86900,Manufacturing
+2970,59000,Diversified
+2971,55000,Government
+2972,51000,Property
+2973,74000,Property
+2974,43000,Security
+2975,80000,Transport
+2976,43000,Property
+2977,30692,Transport
+2978,39200,Electronics
+2979,59000,Property
+2980,49000,HealthCare
+2981,111000,Property
+2982,39280,HealthCare
+2983,59791,Manufacturing
+2984,45000,Retail
+2985,44000,Property
+2986,99000,Design
+2987,75000,Retail
+2988,42840,Property
+2989,222000,Transport
+2990,43560,Property
+2991,53000,Energy and Utility
+2992,143040,Consulting
+2993,45000,Transport
+2994,69000,Information Technology
+2995,50000,Marine
+2996,99000,Banking and Finance
+2997,55600,Manufacturing
+2998,52000,Manufacturing
+2999,169000,Security
+3000,169300,Energy and Utility
+3001,202800,Transport
+3002,53500,Communications
+3003,42000,Transport
+3004,51000,Diversified
+3005,80240,Information Technology
+3006,78000,Design
+3007,58216,HealthCare
+3008,244000,Transport
+3009,58000,Security
+3010,58000,Electronics
+3011,79400,Retail
+3012,60000,Retail
+3013,42000,Property
+3014,89000,Investment
+3015,88000,HealthCare
+3016,123000,Electronics
+3017,68950,Electronics
+3018,156000,Food and Beverages
+3019,77000,Investment
+3020,60000,Electronics
+3021,42000,Information Technology
+3022,60000,Property
+3023,74400,HealthCare
+3024,83000,Transport
+3025,83000,Transport
+3026,45610,Security
+3027,77520,Manufacturing
+3028,74400,HealthCare
+3029,43500,Energy and Utility
+3030,74360,Transport
+3031,64000,Information Technology
+3032,48000,Information Technology
+3033,73000,Transport
+3034,49160,Food and Beverages
+3035,126000,Energy and Utility
+3036,77000,Property
+3037,252500,Electronics
+3038,74000,Media
+3039,78680,Transport
+3040,111120,Accounting
+3041,53000,Information Technology
+3042,80080,Property
+3043,33949,Transport
+3044,73000,HealthCare
+3045,58700,Entertainment
+3046,47200,HealthCare
+3047,50280,Accounting
+3048,57000,Information Technology
+3049,48200,Information Technology
+3050,46800,Diversified
+3051,138100,Investment
+3052,50000,Security
+3053,77000,Food and Beverages
+3054,55000,Communications
+3055,79000,Transport
+3056,43000,Communications
+3057,74600,Food and Beverages
+3058,32730,Electronics
+3059,199000,Information Technology
+3060,60000,HealthCare
+3061,78000,Transport
+3062,45840,Consulting
+3063,74600,Banking and Finance
+3064,58360,Transport
+3065,45630,Transport
+3066,92000,Transport
+3067,49400,Retail
+3068,50000,Transport
+3069,48000,Property
+3070,78659,Logistics
+3071,52800,Manufacturing
+3072,31291,Communications
+3073,75760,Food and Beverages
+3074,43000,Transport
+3075,79000,Consulting
+3076,79000,HealthCare
+3077,60100,Information Technology
+3078,83000,Government
+3079,209500,Property
+3080,38000,Communications
+3081,48000,Transport
+3082,47000,Retail
+3083,42000,Design
+3084,57000,Communications
+3085,89600,Investment
+3086,68391,Manufacturing
+3087,46800,Diversified
+3088,59000,Government
+3089,42000,Food and Beverages
+3090,49000,Security
+3091,54120,Electronics
+3092,44320,Transport
+3093,45000,Energy and Utility
+3094,52000,Government
+3095,42000,Logistics
+3096,50000,Diversified
+3097,201000,Manufacturing
+3098,52000,Information Technology
+3099,51000,Entertainment
+3100,32868,Transport
+3101,58360,Transport
+3102,157000,Energy and Utility
+3103,50000,Electronics
+3104,44000,Communications
+3105,57775,Banking and Finance
+3106,44400,HealthCare
+3107,47000,Transport
+3108,44500,Property
+3109,73000,Energy and Utility
+3110,214460,Media
+3111,80200,Transport
+3112,51000,Design
+3113,52000,Manufacturing
+3114,78000,Transport
+3115,48000,Energy and Utility
+3116,74000,HealthCare
+3117,74400,Communications
+3118,51900,HealthCare
+3119,82040,Transport
+3120,75360,Banking and Finance
+3121,55600,Transport
+3122,74000,Communications
+3123,58550,Manufacturing
+3124,82040,Information Technology
+3125,52000,Banking and Finance
+3126,253520,Food and Beverages
+3127,54120,Retail
+3128,90480,Energy and Utility
+3129,42000,HealthCare
+3130,80760,Property
+3131,59000,Electronics
+3132,49960,Property
+3133,52000,Diversified
+3134,74000,Investment
+3135,42000,Communications
+3136,60000,Manufacturing
+3137,53400,Security
+3138,75000,Communications
+3139,86000,Investment
+3140,92000,Electronics
+3141,74400,Manufacturing
+3142,198200,HealthCare
+3143,32731,Media
+3144,31589,Manufacturing
+3145,206000,Investment
+3146,56087,Transport
+3147,80000,Media
+3148,81000,Information Technology
+3149,74600,Marine
+3150,46000,Retail
+3151,141600,Security
+3152,49200,Banking and Finance
+3153,45000,Communications
+3154,73000,Investment
+3155,99000,Property
+3156,51900,Electronics
+3157,42000,Energy and Utility
+3158,99000,Investment
+3159,44400,Security
+3160,253800,Banking and Finance
+3161,56600,Food and Beverages
+3162,55000,HealthCare
+3163,44400,Agribusiness
+3164,75800,Manufacturing
+3165,55000,Communications
+3166,79000,HealthCare
+3167,52000,Entertainment
+3168,51000,Government
+3169,74400,Diversified
+3170,31597,Communications
+3171,59100,Transport
+3172,74400,Consulting
+3173,45000,Investment
+3174,49800,Marine
+3175,60100,Transport
+3176,52000,HealthCare
+3177,77720,Diversified
+3178,49000,Property
+3179,49760,Transport
+3180,76200,Transport
+3181,43800,Agribusiness
+3182,44400,Transport
+3183,80800,Manufacturing
+3184,42000,Property
+3185,50000,Property
+3186,80840,Manufacturing
+3187,52000,HealthCare
+3188,143320,Energy and Utility
+3189,45000,Transport
+3190,46920,Media
+3191,76000,Transport
+3192,58000,Investment
+3193,254000,HealthCare
+3194,22433,Consulting
+3195,53500,Retail
+3196,52000,Communications
+3197,74400,Investment
+3198,99100,Energy and Utility
+3199,89840,HealthCare
+3200,54160,Property
+3201,81772,Transport
+3202,138800,Investment
+3203,86320,Diversified
+3204,75800,Retail
+3205,42000,Electronics
+3206,55000,HealthCare
+3207,60100,Government
+3208,60000,HealthCare
+3209,83800,Design
+3210,57000,HealthCare
+3211,48200,Communications
+3212,73000,Transport
+3213,254000,Manufacturing
+3214,83000,Information Technology
+3215,57000,Information Technology
+3216,31603,Media
+3217,78100,Property
+3218,79000,Investment
+3219,74000,Manufacturing
+3220,157000,Energy and Utility
+3221,59400,Retail
+3222,43000,Diversified
+3223,75480,HealthCare
+3224,33980,Investment
+3225,53000,Manufacturing
+3226,49200,Information Technology
+3227,102000,Banking and Finance
+3228,75800,HealthCare
+3229,59000,Energy and Utility
+3230,52000,Banking and Finance
+3231,51000,Communications
+3232,198360,Transport
+3233,38080,Manufacturing
+3234,75800,Property
+3235,52000,Property
+3236,86400,Food and Beverages
+3237,49500,Communications
+3238,79300,Electronics
+3239,57100,Transport
+3240,42000,Retail
+3241,222500,Investment
+3242,74000,Property
+3243,73000,Marine
+3244,52000,HealthCare
+3245,42000,Security
+3246,158000,Investment
+3247,79000,Education
+3248,51000,Electronics
+3249,76240,Service
+3250,99400,Consulting
+3251,44520,Electronics
+3252,80000,Information Technology
+3253,45890,Property
+3254,80400,Transport
+3255,102000,Investment
+3256,32396,Logistics
+3257,30719,Communications
+3258,104700,Energy and Utility
+3259,59600,Information Technology
+3260,51200,Investment
+3261,30325,Security
+3262,32745,Communications
+3263,54240,Media
+3264,58500,Government
+3265,59600,Electronics
+3266,24700,Education
+3267,49200,Retail
+3268,47000,Entertainment
+3269,57000,Communications
+3270,84300,Government
+3271,77000,Education
+3272,48000,Manufacturing
+3273,47000,Property
+3274,74400,Accounting
+3275,42000,Security
+3276,49800,Information Technology
+3277,45000,Security
+3278,32093,Data Storage
+3279,54240,Information Technology
+3280,42000,Property
+3281,47200,Transport
+3282,80960,Media
+3283,44000,Education
+3284,53000,Media
+3285,69000,Government
+3286,48000,Property
+3287,55600,Information Technology
+3288,48000,Manufacturing
+3289,83000,Banking and Finance
+3290,129480,Transport
+3291,46590,Security
+3292,54320,Electronics
+3293,74400,Transport
+3294,57000,Entertainment
+3295,75920,Diversified
+3296,83000,Banking and Finance
+3297,209500,Property
+3298,49200,Investment
+3299,80960,Communications
+3300,30721,Communications
+3301,49500,Retail
+3302,30078,Retail
+3303,99600,Transport
+3304,82100,Transport
+3305,81000,Investment
+3306,77700,HealthCare
+3307,213400,Manufacturing
+3308,82000,Transport
+3309,77760,Information Technology
+3310,115400,Banking and Finance
+3311,49200,Design
+3312,54360,HealthCare
+3313,50000,Retail
+3314,42000,Information Technology
+3315,49000,Government
+3316,43000,Transport
+3317,58000,Communications
+3318,196880,Investment
+3319,111600,Electronics
+3320,51900,HealthCare
+3321,53480,Retail
+3322,83080,Communications
+3323,83100,Manufacturing
+3324,79640,Transport
+3325,30724,Diversified
+3326,53720,Manufacturing
+3327,42000,Security
+3328,74000,Property
+3329,47000,Security
+3330,92000,Investment
+3331,49200,Communications
+3332,74400,Manufacturing
+3333,60100,Electronics
+3334,80960,Property
+3335,33997,Manufacturing
+3336,140000,Investment
+3337,49800,Banking and Finance
+3338,52000,Manufacturing
+3339,59560,Manufacturing
+3340,209500,Communications
+3341,42000,Transport
+3342,77000,Logistics
+3343,54000,Accounting
+3344,49800,Marine
+3345,74000,Transport
+3346,77300,Transport
+3347,74000,Transport
+3348,141600,Accounting
+3349,52000,Marine
+3350,49800,Communications
+3351,48000,Property
+3352,50000,HealthCare
+3353,74000,Accounting
+3354,74520,Design
+3355,30096,Transport
+3356,59000,Communications
+3357,42000,Information Technology
+3358,50000,Communications
+3359,76360,HealthCare
+3360,32751,Food and Beverages
+3361,81000,Communications
+3362,81000,Communications
+3363,59600,Manufacturing
+3364,55600,Information Technology
+3365,154800,Accounting
+3366,57000,Transport
+3367,38800,Security
+3368,59000,Information Technology
+3369,51000,HealthCare
+3370,44520,Banking and Finance
+3371,81000,Property
+3372,81000,Retail
+3373,79000,Manufacturing
+3374,80000,Education
+3375,60120,Banking and Finance
+3376,49560,Information Technology
+3377,80100,Information Technology
+3378,52100,Transport
+3379,59000,Manufacturing
+3380,44000,Property
+3381,73000,Government
+3382,55000,Banking and Finance
+3383,31779,Manufacturing
+3384,42000,Property
+3385,57000,Accounting
+3386,81000,Property
+3387,79000,Banking and Finance
+3388,31313,Retail
+3389,49000,Communications
+3390,51920,Transport
+3391,42880,Retail
+3392,51000,Diversified
+3393,79800,Communications
+3394,38200,Food and Beverages
+3395,42000,Transport
+3396,104800,Transport
+3397,44640,Service
+3398,52000,Entertainment
+3399,57100,Communications
+3400,198200,Transport
+3401,111600,Banking and Finance
+3402,77000,Energy and Utility
+3403,52000,HealthCare
+3404,112000,Communications
+3405,80120,Entertainment
+3406,81000,Transport
+3407,158000,Manufacturing
+3408,44640,Investment
+3409,42000,Energy and Utility
+3410,31784,Government
+3411,44640,Diversified
+3412,76400,Transport
+3413,30255,Retail
+3414,79640,Food and Beverages
+3415,55640,Transport
+3416,59720,Information Technology
+3417,52000,Retail
+3418,42000,Food and Beverages
+3419,112000,Transport
+3420,32871,Electronics
+3421,254000,HealthCare
+3422,80000,Retail
+3423,30102,Property
+3424,57000,Banking and Finance
+3425,30725,Security
+3426,59000,Information Technology
+3427,74640,Marine
+3428,57100,Property
+3429,73000,Property
+3430,99800,Logistics
+3431,77000,Transport
+3432,112000,Banking and Finance
+3433,73000,HealthCare
+3434,51920,Information Technology
+3435,78400,Education
+3436,58000,Diversified
+3437,73000,Manufacturing
+3438,45840,Diversified
+3439,85000,Investment
+3440,55000,Communications
+3441,56600,Electronics
+3442,52000,Property
+3443,90520,Investment
+3444,57000,Marine
+3445,47000,Manufacturing
+3446,47640,Communications
+3447,59000,Information Technology
+3448,32000,Communications
+3449,50400,Marine
+3450,144000,Design
+3451,42000,Entertainment
+3452,30728,Diversified
+3453,75560,HealthCare
+3454,49000,Retail
+3455,31826,Transport
+3456,75920,Information Technology
+3457,80000,Marine
+3458,54400,Transport
+3459,31834,HealthCare
+3460,210500,Marine
+3461,82100,Transport
+3462,31923,Electronics
+3463,44760,Security
+3464,89900,Banking and Finance
+3465,31929,Transport
+3466,59000,Government
+3467,112000,Transport
+3468,42000,Food and Beverages
+3469,60000,Security
+3470,31344,Media
+3471,42000,Electronics
+3472,90000,Information Technology
+3473,57000,Security
+3474,77500,Transport
+3475,222000,Service
+3476,49320,Banking and Finance
+3477,50000,Logistics
+3478,57000,Education
+3479,48200,Information Technology
+3480,80100,Information Technology
+3481,158160,Media
+3482,42000,Transport
+3483,50000,Electronics
+3484,59760,Agribusiness
+3485,49400,Marine
+3486,75600,Transport
+3487,141600,Transport
+3488,49200,Diversified
+3489,52000,Property
+3490,53000,Diversified
+3491,47000,Security
+3492,90000,Electronics
+3493,112000,Accounting
+3494,82200,Transport
+3495,158700,Energy and Utility
+3496,145600,Banking and Finance
+3497,60160,Transport
+3498,48800,Property
+3499,80000,Electronics
+3500,74000,Retail
+3501,53500,Consulting
+3502,78100,Transport
+3503,202200,Electronics
+3504,52800,Information Technology
+3505,74640,Transport
+3506,52000,Diversified
+3507,54400,Transport
+3508,52320,Food and Beverages
+3509,31626,Manufacturing
+3510,42000,Food and Beverages
+3511,76000,Information Technology
+3512,86760,Manufacturing
+3513,76000,Design
+3514,43000,Investment
+3515,113520,Investment
+3516,55720,Property
+3517,81000,Transport
+3518,60000,Communications
+3519,81000,Transport
+3520,86440,Consulting
+3521,83000,Banking and Finance
+3522,114000,Transport
+3523,82200,Transport
+3524,51000,Agribusiness
+3525,50400,Manufacturing
+3526,52000,HealthCare
+3527,48240,Information Technology
+3528,50000,HealthCare
+3529,201600,Accounting
+3530,50400,Information Technology
+3531,254000,HealthCare
+3532,54400,Transport
+3533,52000,Information Technology
+3534,53600,Manufacturing
+3535,52000,Information Technology
+3536,49200,Marine
+3537,52000,Manufacturing
+3538,202000,Security
+3539,74600,Property
+3540,47000,Information Technology
+3541,73000,HealthCare
+3542,52880,Transport
+3543,159600,Security
+3544,82000,Transport
+3545,52880,Marine
+3546,50000,Information Technology
+3547,52000,Food and Beverages
+3548,60240,Investment
+3549,74800,Property
+3550,74800,Manufacturing
+3551,47000,Transport
+3552,76000,Transport
+3553,56000,Transport
+3554,58400,Manufacturing
+3555,49000,Electronics
+3556,210700,Property
+3557,49400,Marine
+3558,31432,Transport
+3559,49000,Property
+3560,57320,Banking and Finance
+3561,53760,Agribusiness
+3562,50400,Electronics
+3563,30328,HealthCare
+3564,50000,Security
+3565,159600,Diversified
+3566,202000,Investment
+3567,42000,HealthCare
+3568,100000,Property
+3569,50080,Media
+3570,59800,Transport
+3571,51200,Government
+3572,47240,Manufacturing
+3573,81100,Banking and Finance
+3574,254000,HealthCare
+3575,56000,Communications
+3576,50700,Security
+3577,82280,Manufacturing
+3578,49000,Banking and Finance
+3579,52000,Property
+3580,44760,Retail
+3581,74800,Transport
+3582,52000,Transport
+3583,42000,Retail
+3584,77760,HealthCare
+3585,83100,HealthCare
+3586,76000,Diversified
+3587,42400,Information Technology
+3588,53000,Marine
+3589,114480,Investment
+3590,103640,Transport
+3591,74840,Transport
+3592,100000,Transport
+3593,81100,Banking and Finance
+3594,75600,Accounting
+3595,255000,HealthCare
+3596,144000,Security
+3597,42500,Property
+3598,60240,Communications
+3599,55000,Diversified
+3600,32640,Design
+3601,42000,Retail
+3602,54400,HealthCare
+3603,50520,Information Technology
+3604,82280,Communications
+3605,47000,Media
+3606,51000,Information Technology
+3607,47000,Electronics
+3608,78000,Marine
+3609,31627,Hospitality
+3610,76000,Property
+3611,47000,Investment
+3612,73000,Property
+3613,52920,Marine
+3614,50000,HealthCare
+3615,31628,Security
+3616,52000,Property
+3617,32756,Government
+3618,80440,Manufacturing
+3619,74880,Manufacturing
+3620,50000,Data Storage
+3621,73000,Media
+3622,74600,Service
+3623,80500,Property
+3624,31629,Transport
+3625,87000,Communications
+3626,33000,Manufacturing
+3627,53000,Transport
+3628,100000,Design
+3629,51960,Transport
+3630,83480,Transport
+3631,31439,Electronics
+3632,45000,Information Technology
+3633,259000,HealthCare
+3634,56600,Food and Beverages
+3635,45000,Data Storage
+3636,50000,Data Storage
+3637,58400,Media
+3638,55000,Communications
+3639,76400,Transport
+3640,73200,Retail
+3641,74960,Diversified
+3642,222000,Transport
+3643,31639,HealthCare
+3644,60320,Property
+3645,32423,Security
+3646,50000,Data Storage
+3647,56000,Information Technology
+3648,79000,HealthCare
+3649,58400,Manufacturing
+3650,83500,HealthCare
+3651,78100,Transport
+3652,76000,Security
+3653,60360,Information Technology
+3654,48000,Security
+3655,33000,Food and Beverages
+3656,45000,Transport
+3657,92000,Education
+3658,50000,Diversified
+3659,82040,Investment
+3660,81000,Property
+3661,224500,Investment
+3662,55000,Communications
+3663,58000,Communications
+3664,42000,Design
+3665,42000,Energy and Utility
+3666,52000,Property
+3667,82280,Manufacturing
+3668,38400,Service
+3669,76000,Transport
+3670,100000,Energy and Utility
+3671,60000,Retail
+3672,75000,Property
+3673,49000,Information Technology
+3674,32022,Manufacturing
+3675,78400,Information Technology
+3676,42000,Accounting
+3677,45000,Accounting
+3678,60400,HealthCare
+3679,77320,Logistics
+3680,42000,Banking and Finance
+3681,53760,Transport
+3682,51000,Investment
+3683,52000,Communications
+3684,75000,Information Technology
+3685,57000,Marine
+3686,52000,Information Technology
+3687,160020,Banking and Finance
+3688,45360,Property
+3689,100000,Electronics
+3690,114640,Accounting
+3691,56640,Food and Beverages
+3692,199500,Property
+3693,52920,Electronics
+3694,92000,Security
+3695,50100,Government
+3696,87000,Investment
+3697,27013,Media
+3698,33480,Banking and Finance
+3699,52000,Information Technology
+3700,44800,Manufacturing
+3701,77760,Transport
+3702,60000,Property
+3703,48000,Transport
+3704,106000,Transport
+3705,54000,HealthCare
+3706,55000,Investment
+3707,216940,Diversified
+3708,73000,Communications
+3709,48000,Education
+3710,60000,Property
+3711,82800,Consulting
+3712,52000,Electronics
+3713,78000,Transport
+3714,53303,Transport
+3715,47240,Information Technology
+3716,80000,Information Technology
+3717,47000,Property
+3718,43500,Retail
+3719,51000,Transport
+3720,222000,Property
+3721,42000,Retail
+3722,285000,HealthCare
+3723,45000,Information Technology
+3724,39680,Food and Beverages
+3725,59000,Education
+3726,39360,Diversified
+3727,59000,Transport
+3728,49440,HealthCare
+3729,80000,Transport
+3730,58000,Property
+3731,80000,Investment
+3732,77760,Diversified
+3733,212140,Energy and Utility
+3734,60000,HealthCare
+3735,32104,Food and Beverages
+3736,30736,Transport
+3737,199500,Property
+3738,57000,Information Technology
+3739,81000,Property
+3740,31492,Transport
+3741,74000,Transport
+3742,79400,Manufacturing
+3743,48000,Education
+3744,52000,HealthCare
+3745,52000,HealthCare
+3746,49500,Retail
+3747,81000,Property
+3748,50000,Manufacturing
+3749,79010,Transport
+3750,51200,Marine
+3751,47280,Electronics
+3752,73000,Investment
+3753,55000,Marine
+3754,51000,Property
+3755,56000,Transport
+3756,73000,Transport
+3757,44800,Security
+3758,52000,Electronics
+3759,78400,Transport
+3760,81000,Information Technology
+3761,30743,Manufacturing
+3762,59000,Electronics
+3763,100000,Investment
+3764,139000,Communications
+3765,74000,Consulting
+3766,32994,Transport
+3767,50000,Data Storage
+3768,100000,Logistics
+3769,87000,Food and Beverages
+3770,30744,Food and Beverages
+3771,197000,Retail
+3772,57000,Media
+3773,92000,Property
+3774,57100,Transport
+3775,42000,Retail
+3776,59000,Investment
+3777,53760,Electronics
+3778,74600,HealthCare
+3779,42000,Energy and Utility
+3780,77800,Government
+3781,116880,Energy and Utility
+3782,74680,Manufacturing
+3783,74680,Manufacturing
+3784,117000,Transport
+3785,56000,Property
+3786,30752,HealthCare
+3787,77900,HealthCare
+3788,56000,Security
+3789,42000,Communications
+3790,56640,Information Technology
+3791,50100,Information Technology
+3792,50000,Transport
+3793,44800,Security
+3794,75000,Design
+3795,76000,Transport
+3796,57000,Government
+3797,50400,Retail
+3798,47000,Banking and Finance
+3799,43800,Information Technology
+3800,53880,Diversified
+3801,77960,Entertainment
+3802,73000,Investment
+3803,42000,Communications
+3804,44800,Service
+3805,59000,Manufacturing
+3806,31030,Electronics
+3807,83000,Transport
+3808,52000,Transport
+3809,60480,Manufacturing
+3810,39720,Electronics
+3811,221900,Transport
+3812,102000,Manufacturing
+3813,52520,HealthCare
+3814,31841,Transport
+3815,42000,Transport
+3816,31847,Transport
+3817,53600,Manufacturing
+3818,201120,Information Technology
+3819,60480,Transport
+3820,117360,Transport
+3821,42000,Manufacturing
+3822,75000,Manufacturing
+3823,60000,HealthCare
+3824,47280,Energy and Utility
+3825,262000,HealthCare
+3826,100000,Media
+3827,78000,Investment
+3828,82500,Logistics
+3829,81000,Retail
+3830,60000,Transport
+3831,45840,Investment
+3832,78000,Education
+3833,73000,Marine
+3834,50100,Communications
+3835,42000,Diversified
+3836,33720,Retail
+3837,44920,HealthCare
+3838,76000,Property
+3839,24700,Education
+3840,60000,Education
+3841,42000,Accounting
+3842,52000,Energy and Utility
+3843,22433,Consulting
+3844,51000,Investment
+3845,82520,Food and Beverages
+3846,56640,Property
+3847,32024,Media
+3848,48040,Investment
+3849,78000,Property
+3850,42000,Retail
+3851,31664,Transport
+3852,47360,Manufacturing
+3853,82520,Education
+3854,48080,HealthCare
+3855,73000,Communications
+3856,79040,Information Technology
+3857,33840,Electronics
+3858,263760,Investment
+3859,52920,Accounting
+3860,51000,Communications
+3861,52000,HealthCare
+3862,220500,Investment
+3863,79000,Banking and Finance
+3864,42000,Entertainment
+3865,58570,Information Technology
+3866,49800,Manufacturing
+3867,76000,Transport
+3868,142000,Design
+3869,50100,Communications
+3870,32767,Electronics
+3871,200700,Food and Beverages
+3872,78000,Property
+3873,49840,Transport
+3874,56000,Transport
+3875,38880,Diversified
+3876,60480,Investment
+3877,117600,Agribusiness
+3878,82600,Transport
+3879,72560,Transport
+3880,201500,Transport
+3881,52000,Agribusiness
+3882,144400,Transport
+3883,48000,Communications
+3884,49800,Information Technology
+3885,228000,Manufacturing
+3886,76000,Communications
+3887,52360,Media
+3888,52000,Property
+3889,59000,Information Technology
+3890,42000,Information Technology
+3891,59000,Accounting
+3892,50760,Electronics
+3893,73000,Property
+3894,55000,Property
+3895,89000,Information Technology
+3896,49200,HealthCare
+3897,105000,Communications
+3898,47640,Diversified
+3899,264000,HealthCare
+3900,47400,Accounting
+3901,44680,Transport
+3902,75000,Manufacturing
+3903,43000,Communications
+3904,52000,Property
+3905,78000,Food and Beverages
+3906,80600,Media
+3907,75000,Investment
+3908,34400,Food and Beverages
+3909,50800,Property
+3910,69000,Food and Beverages
+3911,31409,Food and Beverages
+3912,68000,Investment
+3913,51600,Government
+3914,117840,Banking and Finance
+3915,59000,Food and Beverages
+3916,101590,Transport
+3917,74800,Transport
+3918,56000,Media
+3919,59000,Transport
+3920,47000,Manufacturing
+3921,80000,Transport
+3922,268000,HealthCare
+3923,69510,Marine
+3924,76000,Transport
+3925,59000,Transport
+3926,69000,Communications
+3927,57000,Investment
+3928,51000,Security
+3929,49000,Transport
+3930,43000,Security
+3931,59800,Property
+3932,274160,Manufacturing
+3933,119000,Investment
+3934,75000,Information Technology
+3935,222000,Electronics
+3936,221600,Entertainment
+3937,48800,Banking and Finance
+3938,250000,Manufacturing
+3939,139600,Consulting
+3940,83000,Communications
+3941,109000,Transport
+3942,52000,Electronics
+3943,105000,Security
+3944,59800,Electronics
+3945,30754,Transport
+3946,58000,Diversified
+3947,42000,Banking and Finance
+3948,58000,Media
+3949,30767,Food and Beverages
+3950,76000,Transport
+3951,74000,Information Technology
+3952,56650,Information Technology
+3953,74800,Investment
+3954,196000,HealthCare
+3955,98000,Transport
+3956,100000,Education
+3957,232000,Electronics
+3958,76000,Property
+3959,73040,Property
+3960,83000,Communications
+3961,80100,Investment
+3962,65000,Transport
+3963,48520,Energy and Utility
+3964,51000,Design
+3965,49000,Manufacturing
+3966,100100,Energy and Utility
+3967,74840,Electronics
+3968,83000,Government
+3969,50400,HealthCare
+3970,202500,Communications
+3971,34400,Security
+3972,48520,Retail
+3973,201600,Investment
+3974,78000,HealthCare
+3975,78000,Property
+3976,39000,Electronics
+3977,110850,Investment
+3978,45000,Property
+3979,52000,Property
+3980,52920,Accounting
+3981,47000,Energy and Utility
+3982,80000,Information Technology
+3983,75000,Investment
+3984,90000,Education
+3985,199100,Information Technology
+3986,78000,Information Technology
+3987,75000,Government
+3988,204700,Education
+3989,51000,Diversified
+3990,56000,Investment
+3991,49800,Property
+3992,206860,Investment
+3993,51000,Accounting
+3994,82600,Investment
+3995,79500,Investment
+3996,58000,Manufacturing
+3997,207100,Transport
+3998,54520,Transport
+3999,30896,Diversified
+4000,51000,Security
+4001,111720,Retail
+4002,63420,HealthCare
+4003,78612,Consulting
+4004,154884,HealthCare
+4005,340956,Information Technology
+4006,110700,HealthCare
+4007,99984,Banking and Finance
+4008,90000,Electronics
+4009,82860,Hospitality
+4010,68040,Agribusiness
+4011,340956,HealthCare
+4012,90660,Media
+4013,88920,Government
+4014,88920,Manufacturing
+4015,117900,Media
+4016,69408,Transport
+4017,75012,Information Technology
+4018,82860,Investment
+4019,67680,Food and Beverages
+4020,63948,Banking and Finance
+4021,69408,Information Technology
+4022,82860,Food and Beverages
+4023,88920,Transport
+4024,60624,Food and Beverages
+4025,116040,Design
+4026,140004,Electronics
+4027,68040,Food and Beverages
+4028,105120,Energy and Utility
+4029,69756,Property
+4030,133224,Transport
+4031,97140,HealthCare
+4032,260004,Security
+4033,78840,Accounting
+4034,81048,Energy and Utility
+4035,130008,Transport
+4036,153264,Property
+4037,130740,Diversified
+4038,300000,Banking and Finance
+4039,63624,Diversified
+4040,72156,Media
+4041,97140,Property
+4042,78612,Security
+4043,67344,Security
+4044,105120,Transport
+4045,165672,Retail
+4046,116040,Banking and Finance
+4047,122868,Food and Beverages
+4048,99984,Transport
+4049,133224,Banking and Finance
+4050,72000,Accounting
+4051,62520,Government
+4052,249276,Hospitality
+4053,147996,HealthCare
+4054,79200,Entertainment
+4055,78612,Manufacturing
+4056,117900,Food and Beverages
+4057,89400,Transport
+4058,78612,Government
+4059,140004,Government
+4060,154884,Transport
+4061,82752,Transport
+4062,110700,Design
+4063,145872,Government
+4064,145872,Diversified
+4065,116040,Agribusiness
+4066,85176,HealthCare
+4067,110664,Banking and Finance
+4068,60324,Accounting
+4069,116040,Transport
+4070,116040,Transport
+4071,120000,Education
+4072,72000,Energy and Utility
+4073,78960,Manufacturing
+4074,135492,HealthCare
+4075,393600,Manufacturing
+4076,62244,Transport
+4077,69408,Transport
+4078,62244,Hospitality
+4079,82860,Marine
+4080,112716,Energy and Utility
+4081,60000,Electronics
+4082,80868,Security
+4083,70092,Transport
+4084,100152,Media
+4085,120000,Banking and Finance
+4086,138000,Food and Beverages
+4087,63420,HealthCare
+4088,60000,HealthCare
+4089,73344,Accounting
+4090,96000,Data Storage
+4091,82560,Manufacturing
+4092,63420,Information Technology
+4093,154884,Transport
+4094,90000,Property
+4095,133224,Manufacturing
+4096,62364,Energy and Utility
+4097,165672,Agribusiness
+4098,260004,Transport
+4099,110700,Information Technology
+4100,88920,Government
+4101,78960,Transport
+4102,84312,Transport
+4103,116040,Manufacturing
+4104,75012,Security
+4105,60324,Design
+4106,69672,Banking and Finance
+4107,60096,Education
+4108,70092,Information Technology
+4109,140004,Banking and Finance
+4110,81048,Retail
+4111,73080,Service
+4112,80868,Communications
+4113,84312,Security
+4114,130008,Banking and Finance
+4115,129876,Property
+4116,72000,Accounting
+4117,81048,Consulting
+4118,63624,Banking and Finance
+4119,62520,Agribusiness
+4120,165672,Banking and Finance
+4121,67344,Transport
+4122,72156,Retail
+4123,165672,Energy and Utility
+4124,111000,Hospitality
+4125,110664,Agribusiness
+4126,249276,Energy and Utility
+4127,105120,Manufacturing
+4128,77988,Property
+4129,60600,Transport
+4130,60324,Accounting
+4131,111000,Food and Beverages
+4132,130008,Energy and Utility
+4133,60324,HealthCare
+4134,67680,Food and Beverages
+4135,65520,Transport
+4136,249276,Information Technology
+4137,130740,Manufacturing
+4138,82752,Marine
+4139,92724,HealthCare
+4140,112716,Transport
+4141,217200,Data Storage
+4142,153264,HealthCare
+4143,112716,Design
+4144,80868,Electronics
+4145,62364,Transport
+4146,67680,HealthCare
+4147,86616,Service
+4148,112716,Energy and Utility
+4149,75012,HealthCare
+4150,68040,Data Storage
+4151,112716,Transport
+4152,133224,Transport
+4153,82860,Manufacturing
+4154,65520,Media
+4155,90228,Electronics
+4156,393600,Marine
+4157,129336,Transport
+4158,133224,Energy and Utility
+4159,150444,Logistics
+4160,147996,Manufacturing
+4161,112716,Media
+4162,63420,Consulting
+4163,90228,Diversified
+4164,70092,Electronics
+4165,249276,Manufacturing
+4166,72000,Retail
+4167,60600,Transport
+4168,62160,Transport
+4169,99984,Transport
+4170,78612,Banking and Finance
+4171,110508,HealthCare
+4172,63624,Information Technology
+4173,62160,Consulting
+4174,86616,Manufacturing
+4175,82860,Diversified
+4176,110700,Accounting
+4177,96000,Retail
+4178,69756,Banking and Finance
+4179,86616,Banking and Finance
+4180,82860,Transport
+4181,60000,Security
+4182,99984,Hospitality
+4183,79200,Retail
+4184,62160,Transport
+4185,62964,Manufacturing
+4186,129336,Transport
+4187,60624,Manufacturing
+4188,165672,Transport
+4189,300000,Information Technology
+4190,69408,Marine
+4191,75012,Government
+4192,81120,Information Technology
+4193,96612,Transport
+4194,96000,HealthCare
+4195,62244,Accounting
+4196,133224,Electronics
+4197,60096,Transport
+4198,120000,Energy and Utility
+4199,70800,Electronics
+4200,70092,Food and Beverages
+4201,129480,Transport
+4202,97140,HealthCare
+4203,145872,Government
+4204,81048,Electronics
+4205,111720,Food and Beverages
+4206,86616,Transport
+4207,60600,Marine
+4208,97140,Banking and Finance
+4209,90660,Transport
+4210,67344,Transport
+4211,127440,Banking and Finance
+4212,130740,Entertainment
+4213,60324,Communications
+4214,183048,Education
+4215,110664,Banking and Finance
+4216,69756,Diversified
+4217,99984,Communications
+4218,62520,Entertainment
+4219,82752,Data Storage
+4220,70800,Information Technology
+4221,112716,Investment
+4222,110508,Design
+4223,249276,Transport
+4224,86616,Transport
+4225,86616,Manufacturing
+4226,110700,Transport
+4227,249276,Accounting
+4228,147996,Marine
+4229,72000,Investment
+4230,105120,Information Technology
+4231,82860,Investment
+4232,99984,Banking and Finance
+4233,72000,Accounting
+4234,129336,HealthCare
+4235,60624,Energy and Utility
+4236,64476,Manufacturing
+4237,86616,Manufacturing
+4238,70800,Security
+4239,78960,Marine
+4240,129480,Transport
+4241,260004,Marine
+4242,72000,Transport
+4243,63948,Transport
+4244,111720,Accounting
+4245,208440,Transport
+4246,72156,Food and Beverages
+4247,62520,Government
+4248,90228,Entertainment
+4249,62964,HealthCare
+4250,78612,HealthCare
+4251,62160,Investment
+4252,85176,Property
+4253,110700,Banking and Finance
+4254,80868,Government
+4255,84000,Banking and Finance
+4256,393600,Communications
+4257,73080,Electronics
+4258,125040,HealthCare
+4259,60000,Manufacturing
+4260,72156,Diversified
+4261,81048,Agribusiness
+4262,110664,Government
+4263,392556,Manufacturing
+4264,63624,Communications
+4265,111000,Marine
+4266,116040,Government
+4267,70092,Electronics
+4268,90228,Marine
+4269,88920,Communications
+4270,94680,Marine
+4271,84000,Banking and Finance
+4272,140004,Transport
+4273,69408,Marine
+4274,85176,HealthCare
+4275,135492,HealthCare
+4276,130740,Electronics
+4277,129876,Transport
+4278,82752,Media
+4279,249276,Electronics
+4280,82752,Security
+4281,249276,Government
+4282,84312,Transport
+4283,96612,Banking and Finance
+4284,110700,Transport
+4285,183048,Information Technology
+4286,111720,Agribusiness
+4287,260004,HealthCare
+4288,73344,Manufacturing
+4289,63948,Government
+4290,69756,Logistics
+4291,70092,Security
+4292,86616,Food and Beverages
+4293,130008,Food and Beverages
+4294,82860,Food and Beverages
+4295,105708,Manufacturing
+4296,80868,Transport
+4297,116040,Government
+4298,127440,Property
+4299,61152,Manufacturing
+4300,70092,Transport
+4301,67344,Entertainment
+4302,260004,Transport
+4303,62964,Electronics
+4304,62964,Transport
+4305,86616,Media
+4306,153264,Transport
+4307,81048,Electronics
+4308,60624,HealthCare
+4309,183048,Transport
+4310,135492,Property
+4311,111000,Transport
+4312,86616,Agribusiness
+4313,62520,Government
+4314,133224,Communications
+4315,105708,Communications
+4316,90228,HealthCare
+4317,77988,Banking and Finance
+4318,110508,Retail
+4319,62160,Food and Beverages
+4320,105708,Data Storage
+4321,393600,Accounting
+4322,63624,Manufacturing
+4323,68040,HealthCare
+4324,61080,HealthCare
+4325,111720,Banking and Finance
+4326,62964,Transport
+4327,99984,Accounting
+4328,86616,Food and Beverages
+4329,86616,Consulting
+4330,116040,Security
+4331,69408,Transport
+4332,66324,Media
+4333,140004,Communications
+4334,393600,Banking and Finance
+4335,105708,Government
+4336,125040,Banking and Finance
+4337,393600,Energy and Utility
+4338,147996,Communications
+4339,63624,Transport
+4340,105708,Manufacturing
+4341,61080,Service
+4342,340956,Electronics
+4343,153264,Transport
+4344,208440,Transport
+4345,147996,Design
+4346,68040,Transport
+4347,78840,Food and Beverages
+4348,61800,Transport
+4349,110700,Security
+4350,150444,Agribusiness
+4351,79200,Manufacturing
+4352,82860,Energy and Utility
+4353,86616,HealthCare
+4354,147996,Manufacturing
+4355,69672,Consulting
+4356,89400,Security
+4357,135492,Banking and Finance
+4358,86616,Manufacturing
+4359,70092,Information Technology
+4360,72000,Energy and Utility
+4361,61800,Banking and Finance
+4362,86616,Manufacturing
+4363,105708,HealthCare
+4364,153264,Food and Beverages
+4365,69408,Design
+4366,117900,Transport
+4367,135492,Banking and Finance
+4368,73080,Investment
+4369,62364,Transport
+4370,63624,Communications
+4371,79200,Transport
+4372,129876,Diversified
+4373,84924,Service
+4374,127440,HealthCare
+4375,90228,Banking and Finance
+4376,62364,Investment
+4377,60600,HealthCare
+4378,90228,Information Technology
+4379,129336,Banking and Finance
+4380,80868,Manufacturing
+4381,62964,Communications
+4382,112716,Property
+4383,60324,Manufacturing
+4384,105120,Transport
+4385,62364,Government
+4386,79200,HealthCare
+4387,69408,Transport
+4388,77988,Electronics
+4389,61800,Energy and Utility
+4390,70092,Banking and Finance
+4391,111000,Information Technology
+4392,80868,HealthCare
+4393,130740,Government
+4394,72000,Service
+4395,69408,Hospitality
+4396,110700,Food and Beverages
+4397,81048,Manufacturing
+4398,67680,Information Technology
+4399,70800,Communications
+4400,85176,Banking and Finance
+4401,90000,Manufacturing
+4402,99984,Food and Beverages
+4403,165672,Service
+4404,70800,Consulting
+4405,105708,Energy and Utility
+4406,90228,Accounting
+4407,129336,Transport
+4408,60000,Transport
+4409,61800,Accounting
+4410,69408,Manufacturing
+4411,122868,Service
+4412,84000,Banking and Finance
+4413,116040,Manufacturing
+4414,100152,Agribusiness
+4415,96612,Hospitality
+4416,69672,HealthCare
+4417,249276,Banking and Finance
+4418,69408,Media
+4419,393600,Transport
+4420,63624,Banking and Finance
+4421,60624,Data Storage
+4422,260004,HealthCare
+4423,111000,Banking and Finance
+4424,86616,HealthCare
+4425,63420,Transport
+4426,62520,Accounting
+4427,70800,Accounting
+4428,68040,Data Storage
+4429,82860,Marine
+4430,117900,Energy and Utility
+4431,62520,Government
+4432,82860,Banking and Finance
+4433,260004,Hospitality
+4434,110664,Manufacturing
+4435,84924,HealthCare
+4436,63624,Property
+4437,110700,HealthCare
+4438,127440,Food and Beverages
+4439,72156,Media
+4440,65520,Food and Beverages
+4441,77988,Diversified
+4442,88920,HealthCare
+4443,105708,Banking and Finance
+4444,110508,Education
+4445,125040,HealthCare
+4446,69672,Government
+4447,340956,Information Technology
+4448,249276,Transport
+4449,112716,Marine
+4450,105708,Banking and Finance
+4451,111720,HealthCare
+4452,165672,HealthCare
+4453,78960,Information Technology
+4454,61152,Transport
+4455,63420,Banking and Finance
+4456,63948,Agribusiness
+4457,129336,Transport
+4458,72000,Entertainment
+4459,62364,Security
+4460,145872,HealthCare
+4461,92724,Logistics
+4462,69408,Information Technology
+4463,165672,Diversified
+4464,63420,Retail
+4465,300000,Communications
+4466,75012,Energy and Utility
+4467,86616,Accounting
+4468,61152,Electronics
+4469,94680,Banking and Finance
+4470,79200,Transport
+4471,73344,HealthCare
+4472,117900,Banking and Finance
+4473,340956,Manufacturing
+4474,96000,Transport
+4475,153264,Manufacturing
+4476,69756,Manufacturing
+4477,80868,Banking and Finance
+4478,62964,Banking and Finance
+4479,129480,Hospitality
+4480,62520,Manufacturing
+4481,90000,Accounting
+4482,110700,Energy and Utility
+4483,70092,Manufacturing
+4484,68040,Property
+4485,96612,Property
+4486,60000,Manufacturing
+4487,72000,Energy and Utility
+4488,62364,Retail
+4489,70800,Government
+4490,96000,HealthCare
+4491,111720,Diversified
+4492,62364,Information Technology
+4493,127440,Agribusiness
+4494,77988,Government
+4495,63948,Transport
+4496,70800,Property
+4497,86616,Government
+4498,85176,Manufacturing
+4499,260004,Property
+4500,62244,Banking and Finance
+4501,130008,Information Technology
+4502,88920,Property
+4503,82560,Retail
+4504,133224,Energy and Utility
+4505,60000,Banking and Finance
+4506,129336,Information Technology
+4507,110664,Information Technology
+4508,86616,Design
+4509,63420,Property
+4510,393600,Communications
+4511,81120,Electronics
+4512,116040,Service
+4513,70092,Design
+4514,62244,Information Technology
+4515,110700,Service
+4516,249276,Transport
+4517,65520,Transport
+4518,70800,Hospitality
+4519,165672,Banking and Finance
+4520,90228,Information Technology
+4521,150444,Electronics
+4522,154884,Government
+4523,64476,Marine
+4524,130008,Government
+4525,125040,Marine
+4526,147996,HealthCare
+4527,112716,HealthCare
+4528,393600,HealthCare
+4529,110700,Electronics
+4530,61152,Agribusiness
+4531,88920,Transport
+4532,129336,Consulting
+4533,86616,Electronics
+4534,81120,Communications
+4535,67680,Diversified
+4536,110700,Transport
+4537,340956,Banking and Finance
+4538,63948,Education
+4539,77988,Retail
+4540,82860,Retail
+4541,89400,Security
+4542,81048,Food and Beverages
+4543,60096,Transport
+4544,72156,Diversified
+4545,153264,HealthCare
+4546,68040,Electronics
+4547,97140,Education
+4548,70092,Transport
+4549,69672,Investment
+4550,122868,Transport
+4551,112716,Marine
+4552,105708,HealthCare
+4553,70092,Manufacturing
+4554,86616,Manufacturing
+4555,81048,Consulting
+4556,96000,Transport
+4557,81048,Retail
+4558,138000,HealthCare
+4559,208440,HealthCare
+4560,393600,Energy and Utility
+4561,63624,Transport
+4562,393600,Investment
+4563,105708,Banking and Finance
+4564,130008,Information Technology
+4565,90660,Food and Beverages
+4566,78612,Government
+4567,63948,Transport
+4568,82860,Electronics
+4569,69408,Banking and Finance
+4570,130008,Government
+4571,82560,Security
+4572,72000,Information Technology
+4573,165672,Banking and Finance
+4574,72156,Banking and Finance
+4575,66324,Transport
+4576,62160,Entertainment
+4577,133224,HealthCare
+4578,60600,Retail
+4579,89400,Food and Beverages
+4580,60324,Accounting
+4581,138000,Property
+4582,70092,Marine
+4583,84312,Retail
+4584,86616,Manufacturing
+4585,129336,Transport
+4586,69756,HealthCare
+4587,84924,Transport
+4588,65520,Transport
+4589,129480,Energy and Utility
+4590,249276,Communications
+4591,116040,Transport
+4592,127440,Information Technology
+4593,135492,Manufacturing
+4594,66324,Energy and Utility
+4595,78840,Transport
+4596,62520,Transport
+4597,96000,Information Technology
+4598,65520,Marine
+4599,129480,Transport
+4600,78960,Transport
+4601,73344,Manufacturing
+4602,125040,Banking and Finance
+4603,165672,Manufacturing
+4604,133224,Government
+4605,96000,Education
+4606,145872,Banking and Finance
+4607,208440,Banking and Finance
+4608,129336,Manufacturing
+4609,79200,Electronics
+4610,154884,HealthCare
+4611,393600,Information Technology
+4612,62964,Banking and Finance
+4613,130008,Transport
+4614,112716,Communications
+4615,62364,Banking and Finance
+4616,260004,Accounting
+4617,72156,Design
+4618,165672,Government
+4619,77988,Transport
+4620,73344,HealthCare
+4621,86616,Government
+4622,68040,Transport
+4623,117900,Agribusiness
+4624,69408,Food and Beverages
+4625,70092,Banking and Finance
+4626,84312,Government
+4627,61152,Information Technology
+4628,127440,Marine
+4629,110508,Manufacturing
+4630,70092,Banking and Finance
+4631,78840,Agribusiness
+4632,154884,Design
+4633,73080,Security
+4634,81048,Banking and Finance
+4635,116040,Marine
+4636,73344,Banking and Finance
+4637,69756,Service
+4638,67344,Transport
+4639,105708,Manufacturing
+4640,96000,Transport
+4641,62244,Accounting
+4642,75012,Manufacturing
+4643,61800,Education
+4644,78960,Entertainment
+4645,60324,Transport
+4646,392556,Transport
+4647,90000,Banking and Finance
+4648,84924,HealthCare
+4649,88920,Agribusiness
+4650,120000,Property
+4651,110508,Retail
+4652,147996,Diversified
+4653,60624,Transport
+4654,96612,Transport
+4655,105708,Agribusiness
+4656,96000,Information Technology
+4657,340956,Education
+4658,61800,Food and Beverages
+4659,129876,Government
+4660,72156,Food and Beverages
+4661,60324,HealthCare
+4662,130008,Accounting
+4663,110508,Communications
+4664,86616,Consulting
+4665,78840,Manufacturing
+4666,79200,Retail
+4667,122868,Data Storage
+4668,77988,Electronics
+4669,69756,Government
+4670,86616,Security
+4671,66324,Manufacturing
+4672,63624,Data Storage
+4673,73080,HealthCare
+4674,110508,Electronics
+4675,63948,Energy and Utility
+4676,65520,HealthCare
+4677,73080,Banking and Finance
+4678,60096,Food and Beverages
+4679,70800,Government
+4680,62364,Retail
+4681,97140,Media
+4682,116040,Food and Beverages
+4683,73344,Information Technology
+4684,96000,Transport
+4685,112716,Electronics
+4686,85176,Transport
+4687,133224,Banking and Finance
+4688,82560,Electronics
+4689,84000,Transport
+4690,133224,Manufacturing
+4691,80868,Electronics
+4692,82860,Transport
+4693,140004,Transport
+4694,165672,Electronics
+4695,100152,Data Storage
+4696,70800,Transport
+4697,130008,Transport
+4698,393600,Government
+4699,133224,Transport
+4700,129480,Transport
+4701,79200,Electronics
+4702,81048,Energy and Utility
+4703,127440,Marine
+4704,86616,Information Technology
+4705,70092,Security
+4706,150444,HealthCare
+4707,86616,Accounting
+4708,80868,Transport
+4709,89400,Banking and Finance
+4710,130740,Communications
+4711,112716,Diversified
+4712,183048,Retail
+4713,130008,Food and Beverages
+4714,73080,Manufacturing
+4715,61800,Accounting
+4716,84000,Security
+4717,392556,Manufacturing
+4718,145872,HealthCare
+4719,73344,Government
+4720,105708,Transport
+4721,116040,Agribusiness
+4722,70800,Media
+4723,117900,Transport
+4724,75012,Agribusiness
+4725,393600,Manufacturing
+4726,99984,Media
+4727,300000,Transport
+4728,94680,Information Technology
+4729,94680,Marine
+4730,97140,Data Storage
+4731,61152,Banking and Finance
+4732,62364,Manufacturing
+4733,60096,Manufacturing
+4734,85176,Transport
+4735,129480,HealthCare
+4736,62160,Property
+4737,112716,Investment
+4738,150444,Energy and Utility
+4739,85176,Transport
+4740,165672,Manufacturing
+4741,99984,Banking and Finance
+4742,125040,Accounting
+4743,129336,Manufacturing
+4744,129336,Government
+4745,125040,Transport
+4746,97140,Retail
+4747,92724,HealthCare
+4748,81120,Diversified
+4749,90000,Electronics
+4750,70092,Service
+4751,66324,Transport
+4752,340956,Information Technology
+4753,129876,Consulting
+4754,70800,Transport
+4755,260004,Information Technology
+4756,94680,Banking and Finance
+4757,82560,HealthCare
+4758,82560,Consulting
+4759,392556,Service
+4760,63420,Security
+4761,183048,Banking and Finance
+4762,72156,Investment
+4763,112716,Government
+4764,112716,HealthCare
+4765,165672,Communications
+4766,116040,Transport
+4767,70800,Banking and Finance
+4768,140004,Accounting
+4769,90228,Electronics
+4770,92724,Government
+4771,99984,Retail
+4772,80868,Manufacturing
+4773,90660,Transport
+4774,73080,Communications
+4775,133224,Data Storage
+4776,92724,Accounting
+4777,72000,Security
+4778,165672,HealthCare
+4779,69408,Hospitality
+4780,61800,HealthCare
+4781,249276,Security
+4782,112716,Design
+4783,129336,Agribusiness
+4784,111000,HealthCare
+4785,147996,Banking and Finance
+4786,129336,HealthCare
+4787,78612,Hospitality
+4788,79200,Communications
+4789,97140,Agribusiness
+4790,61800,Manufacturing
+4791,78960,Diversified
+4792,340956,HealthCare
+4793,249276,Transport
+4794,78612,Education
+4795,153264,Service
+4796,63948,Electronics
+4797,133224,Transport
+4798,67344,Energy and Utility
+4799,217200,Accounting
+4800,78960,Banking and Finance
+4801,112716,Energy and Utility
+4802,127440,Government
+4803,147996,HealthCare
+4804,88920,HealthCare
+4805,105708,Entertainment
+4806,90660,Food and Beverages
+4807,125040,Service
+4808,150444,Food and Beverages
+4809,99984,Marine
+4810,130008,Electronics
+4811,82860,Manufacturing
+4812,260004,Electronics
+4813,82560,Manufacturing
+4814,72000,Security
+4815,125040,Diversified
+4816,393600,Communications
+4817,120000,Education
+4818,125040,Electronics
+4819,82860,Marine
+4820,165672,Retail
+4821,147996,Food and Beverages
+4822,69408,Banking and Finance
+4823,96000,Food and Beverages
+4824,75012,Food and Beverages
+4825,249276,Agribusiness
+4826,111720,Transport
+4827,125040,Transport
+4828,68040,Energy and Utility
+4829,82752,Entertainment
+4830,72000,Investment
+4831,260004,Manufacturing
+4832,62244,Data Storage
+4833,82560,Manufacturing
+4834,86616,Manufacturing
+4835,70800,Media
+4836,249276,Manufacturing
+4837,165672,Government
+4838,147996,Marine
+4839,61080,Transport
+4840,117900,Property
+4841,100152,Investment
+4842,96000,Security
+4843,60624,Transport
+4844,393600,HealthCare
+4845,99984,Information Technology
+4846,84312,HealthCare
+4847,112716,Electronics
+4848,129876,Banking and Finance
+4849,116040,Retail
+4850,300000,Communications
+4851,122868,Retail
+4852,90660,Transport
+4853,81048,Information Technology
+4854,127440,Retail
+4855,60324,Information Technology
+4856,110508,Manufacturing
+4857,70800,Design
+4858,70092,HealthCare
+4859,116040,Transport
+4860,120000,Manufacturing
+4861,61080,Energy and Utility
+4862,300000,Investment
+4863,60624,Communications
+4864,130740,Diversified
+4865,129336,Property
+4866,73080,Banking and Finance
+4867,122868,Accounting
+4868,72156,Banking and Finance
+4869,61152,Investment
+4870,105708,HealthCare
+4871,63624,Transport
+4872,112716,Accounting
+4873,96612,Property
+4874,62520,Service
+4875,129480,Government
+4876,300000,Banking and Finance
+4877,63948,Government
+4878,94680,Design
+4879,62244,Retail
+4880,208440,Manufacturing
+4881,133224,Food and Beverages
+4882,120000,Marine
+4883,125040,Electronics
+4884,153264,Transport
+4885,69672,HealthCare
+4886,117900,Government
+4887,60324,Transport
+4888,96000,Manufacturing
+4889,72000,Agribusiness
+4890,80868,HealthCare
+4891,116040,HealthCare
+4892,153264,Transport
+4893,112716,Banking and Finance
+4894,69408,Government
+4895,260004,Information Technology
+4896,78960,Diversified
+4897,130008,Security
+4898,62244,Information Technology
+4899,82560,Information Technology
+4900,129336,Accounting
+4901,84000,Retail
+4902,62520,Manufacturing
+4903,84312,Diversified
+4904,86616,Education
+4905,82860,Diversified
+4906,133224,Transport
+4907,82860,Transport
+4908,249276,Banking and Finance
+4909,88920,Diversified
+4910,130008,Food and Beverages
+4911,69672,Electronics
+4912,67680,Information Technology
+4913,110508,Transport
+4914,75012,Information Technology
+4915,340956,Food and Beverages
+4916,66324,Media
+4917,111720,Banking and Finance
+4918,100152,HealthCare
+4919,73080,HealthCare
+4920,72000,Food and Beverages
+4921,140004,Property
+4922,84924,Diversified
+4923,88920,Marine
+4924,183048,Transport
+4925,63420,Agribusiness
+4926,110700,HealthCare
+4927,129876,Accounting
+4928,78840,Government
+4929,183048,Service
+4930,117900,Government
+4931,84312,Government
+4932,111720,Investment
+4933,60096,Transport
+4934,116040,Government
+4935,208440,Electronics
+4936,86616,HealthCare
+4937,86616,Education
+4938,153264,Government
+4939,72000,Transport
+4940,70092,HealthCare
+4941,69672,Agribusiness
+4942,110700,Manufacturing
+4943,145872,HealthCare
+4944,105708,Transport
+4945,100152,Service
+4946,96000,Food and Beverages
+4947,147996,Manufacturing
+4948,208440,Transport
+4949,81120,Agribusiness
+4950,105708,Banking and Finance
+4951,62964,Investment
+4952,97140,Food and Beverages
+4953,84000,Manufacturing
+4954,97140,Entertainment
+4955,78960,HealthCare
+4956,72156,Service
+4957,100152,Consulting
+4958,116040,Manufacturing
+4959,70092,Transport
+4960,66324,Energy and Utility
+4961,89400,Service
+4962,393600,Diversified
+4963,64476,Banking and Finance
+4964,217200,Banking and Finance
+4965,300000,Transport
+4966,112716,Manufacturing
+4967,153264,Banking and Finance
+4968,82752,Marine
+4969,111720,Food and Beverages
+4970,85176,HealthCare
+4971,116040,Marine
+4972,392556,Manufacturing
+4973,260004,Manufacturing
+4974,67344,Diversified
+4975,64476,Transport
+4976,217200,Food and Beverages
+4977,81120,Food and Beverages
+4978,97140,Education
+4979,150444,Communications
+4980,96612,Manufacturing
+4981,62160,Banking and Finance
+4982,129480,Electronics
+4983,65520,Food and Beverages
+4984,61152,Energy and Utility
+4985,86616,Design
+4986,110700,Transport
+4987,340956,Design
+4988,99984,Banking and Finance
+4989,62520,Food and Beverages
+4990,112716,Government
+4991,89400,Agribusiness
+4992,85176,Food and Beverages
+4993,72000,Government
+4994,392556,Marine
+4995,78612,Property
+4996,63624,Property
+4997,260004,Security
+4998,165672,HealthCare
+4999,129336,Banking and Finance
+5000,82860,Manufacturing
+5001,111720,Retail
+5002,63420,HealthCare
+5003,78612,Consulting
+5004,154884,HealthCare
+5005,340956,Information Technology
+5006,110700,HealthCare
+5007,99984,Banking and Finance
+5008,90000,Electronics
+5009,82860,Hospitality
+5010,68040,Agribusiness
+5011,340956,HealthCare
+5012,90660,Media
+5013,88920,Government
+5014,88920,Manufacturing
+5015,117900,Media
+5016,69408,Transport
+5017,75012,Information Technology
+5018,82860,Investment
+5019,67680,Food and Beverages
+5020,63948,Banking and Finance
+5021,69408,Information Technology
+5022,82860,Food and Beverages
+5023,88920,Transport
+5024,60624,Food and Beverages
+5025,116040,Design
+5026,140004,Electronics
+5027,68040,Food and Beverages
+5028,105120,Energy and Utility
+5029,69756,Property
+5030,133224,Transport
+5031,97140,HealthCare
+5032,260004,Security
+5033,78840,Accounting
+5034,81048,Energy and Utility
+5035,130008,Transport
+5036,153264,Property
+5037,130740,Diversified
+5038,300000,Banking and Finance
+5039,63624,Diversified
+5040,72156,Media
+5041,97140,Property
+5042,78612,Security
+5043,67344,Security
+5044,105120,Transport
+5045,165672,Retail
+5046,116040,Banking and Finance
+5047,122868,Food and Beverages
+5048,99984,Transport
+5049,133224,Banking and Finance
+5050,72000,Accounting
+5051,62520,Government
+5052,249276,Hospitality
+5053,147996,HealthCare
+5054,79200,Entertainment
+5055,78612,Manufacturing
+5056,117900,Food and Beverages
+5057,89400,Transport
+5058,78612,Government
+5059,140004,Government
+5060,154884,Transport
+5061,82752,Transport
+5062,110700,Design
+5063,145872,Government
+5064,145872,Diversified
+5065,116040,Agribusiness
+5066,85176,HealthCare
+5067,110664,Banking and Finance
+5068,60324,Accounting
+5069,116040,Transport
+5070,116040,Transport
+5071,120000,Education
+5072,72000,Energy and Utility
+5073,78960,Manufacturing
+5074,135492,HealthCare
+5075,393600,Manufacturing
+5076,62244,Transport
+5077,69408,Transport
+5078,62244,Hospitality
+5079,82860,Marine
+5080,112716,Energy and Utility
+5081,60000,Electronics
+5082,80868,Security
+5083,70092,Transport
+5084,100152,Media
+5085,120000,Banking and Finance
+5086,138000,Food and Beverages
+5087,63420,HealthCare
+5088,60000,HealthCare
+5089,73344,Accounting
+5090,96000,Data Storage
+5091,82560,Manufacturing
+5092,63420,Information Technology
+5093,154884,Transport
+5094,90000,Property
+5095,133224,Manufacturing
+5096,62364,Energy and Utility
+5097,165672,Agribusiness
+5098,260004,Transport
+5099,110700,Information Technology
+5100,88920,Government
+5101,78960,Transport
+5102,84312,Transport
+5103,116040,Manufacturing
+5104,75012,Security
+5105,60324,Design
+5106,69672,Banking and Finance
+5107,60096,Education
+5108,70092,Information Technology
+5109,140004,Banking and Finance
+5110,81048,Retail
+5111,73080,Service
+5112,80868,Communications
+5113,84312,Security
+5114,130008,Banking and Finance
+5115,129876,Property
+5116,72000,Accounting
+5117,81048,Consulting
+5118,63624,Banking and Finance
+5119,62520,Agribusiness
+5120,165672,Banking and Finance
+5121,67344,HealthCare
+5122,72156,Retail
+5123,165672,Energy and Utility
+5124,111000,Hospitality
+5125,110664,Agribusiness
+5126,249276,Energy and Utility
+5127,105120,Manufacturing
+5128,77988,Property
+5129,60600,Transport
+5130,60324,Accounting
+5131,111000,Food and Beverages
+5132,130008,Energy and Utility
+5133,60324,HealthCare
+5134,67680,Food and Beverages
+5135,65520,Transport
+5136,249276,Information Technology
+5137,130740,Manufacturing
+5138,82752,Marine
+5139,92724,HealthCare
+5140,112716,Transport
+5141,217200,Data Storage
+5142,153264,HealthCare
+5143,112716,Design
+5144,80868,Electronics
+5145,62364,Transport
+5146,67680,HealthCare
+5147,86616,Service
+5148,112716,Energy and Utility
+5149,75012,HealthCare
+5150,68040,Data Storage
+5151,112716,Transport
+5152,133224,Transport
+5153,82860,Manufacturing
+5154,65520,Media
+5155,90228,Electronics
+5156,393600,Marine
+5157,129336,Transport
+5158,133224,Energy and Utility
+5159,150444,Logistics
+5160,147996,Manufacturing
+5161,112716,Media
+5162,63420,Consulting
+5163,90228,Diversified
+5164,70092,Electronics
+5165,249276,Manufacturing
+5166,72000,Retail
+5167,60600,Transport
+5168,62160,Transport
+5169,99984,Manufacturing
+5170,78612,Banking and Finance
+5171,110508,HealthCare
+5172,63624,Information Technology
+5173,62160,Consulting
+5174,86616,Manufacturing
+5175,82860,Diversified
+5176,110700,Accounting
+5177,96000,Retail
+5178,69756,Banking and Finance
+5179,86616,Banking and Finance
+5180,82860,Transport
+5181,60000,Security
+5182,99984,Hospitality
+5183,79200,Retail
+5184,62160,Transport
+5185,62964,Manufacturing
+5186,129336,Transport
+5187,60624,Manufacturing
+5188,165672,Transport
+5189,300000,Information Technology
+5190,69408,Marine
+5191,75012,Government
+5192,81120,Information Technology
+5193,96612,Transport
+5194,96000,HealthCare
+5195,62244,Accounting
+5196,133224,Electronics
+5197,60096,Banking and Finance
+5198,120000,Energy and Utility
+5199,70800,Electronics
+5200,70092,Food and Beverages
+5201,129480,Transport
+5202,97140,HealthCare
+5203,145872,Government
+5204,81048,Electronics
+5205,111720,Food and Beverages
+5206,86616,Transport
+5207,60600,Marine
+5208,97140,Banking and Finance
+5209,90660,Transport
+5210,67344,HealthCare
+5211,127440,Banking and Finance
+5212,130740,Entertainment
+5213,60324,Communications
+5214,183048,Education
+5215,110664,Banking and Finance
+5216,69756,Diversified
+5217,99984,Communications
+5218,62520,Entertainment
+5219,82752,Data Storage
+5220,70800,Information Technology
+5221,112716,Investment
+5222,110508,Design
+5223,249276,Transport
+5224,86616,Transport
+5225,86616,Manufacturing
+5226,110700,Transport
+5227,249276,Accounting
+5228,147996,Marine
+5229,72000,Investment
+5230,105120,Information Technology
+5231,82860,Investment
+5232,99984,Banking and Finance
+5233,72000,Accounting
+5234,129336,HealthCare
+5235,60624,Energy and Utility
+5236,64476,Manufacturing
+5237,86616,Manufacturing
+5238,70800,Security
+5239,78960,Marine
+5240,129480,Transport
+5241,260004,Marine
+5242,72000,Transport
+5243,63948,Transport
+5244,111720,Accounting
+5245,208440,Transport
+5246,72156,Food and Beverages
+5247,62520,Transport
+5248,90228,Entertainment
+5249,62964,HealthCare
+5250,78612,HealthCare
+5251,62160,Investment
+5252,85176,Property
+5253,110700,Banking and Finance
+5254,80868,Government
+5255,84000,Banking and Finance
+5256,393600,Communications
+5257,73080,Electronics
+5258,125040,HealthCare
+5259,60000,Manufacturing
+5260,72156,Diversified
+5261,81048,Agribusiness
+5262,110664,Government
+5263,392556,Manufacturing
+5264,63624,Communications
+5265,111000,Marine
+5266,116040,Government
+5267,70092,Electronics
+5268,90228,Marine
+5269,88920,Communications
+5270,94680,Marine
+5271,84000,Banking and Finance
+5272,140004,Transport
+5273,69408,Marine
+5274,85176,HealthCare
+5275,135492,HealthCare
+5276,130740,Electronics
+5277,129876,Transport
+5278,82752,Media
+5279,249276,Electronics
+5280,82752,Security
+5281,249276,Government
+5282,84312,Transport
+5283,96612,Banking and Finance
+5284,110700,Transport
+5285,183048,Information Technology
+5286,111720,Agribusiness
+5287,260004,HealthCare
+5288,73344,Manufacturing
+5289,63948,Government
+5290,69756,Logistics
+5291,70092,Security
+5292,86616,Food and Beverages
+5293,130008,Food and Beverages
+5294,82860,Food and Beverages
+5295,105708,Manufacturing
+5296,80868,Transport
+5297,116040,Government
+5298,127440,Property
+5299,61152,Manufacturing
+5300,70092,Transport
+5301,67344,Entertainment
+5302,260004,Transport
+5303,62964,Electronics
+5304,62964,Transport
+5305,86616,Media
+5306,153264,Transport
+5307,81048,Electronics
+5308,60624,HealthCare
+5309,183048,Transport
+5310,135492,Property
+5311,111000,Transport
+5312,86616,Agribusiness
+5313,62520,Government
+5314,133224,Communications
+5315,105708,Communications
+5316,90228,HealthCare
+5317,77988,Banking and Finance
+5318,110508,Retail
+5319,62160,Food and Beverages
+5320,105708,Data Storage
+5321,393600,Accounting
+5322,63624,Manufacturing
+5323,68040,HealthCare
+5324,61080,HealthCare
+5325,111720,Banking and Finance
+5326,62964,Transport
+5327,99984,Accounting
+5328,86616,Food and Beverages
+5329,86616,Consulting
+5330,116040,Security
+5331,69408,Transport
+5332,66324,Media
+5333,140004,Communications
+5334,393600,Banking and Finance
+5335,105708,Government
+5336,125040,Banking and Finance
+5337,393600,Energy and Utility
+5338,147996,Communications
+5339,63624,Transport
+5340,105708,Manufacturing
+5341,61080,Service
+5342,340956,Electronics
+5343,153264,Transport
+5344,208440,Transport
+5345,147996,Design
+5346,68040,Electronics
+5347,78840,Food and Beverages
+5348,61800,Transport
+5349,110700,Security
+5350,150444,Agribusiness
+5351,79200,Manufacturing
+5352,82860,Energy and Utility
+5353,86616,HealthCare
+5354,147996,Manufacturing
+5355,69672,Consulting
+5356,89400,Security
+5357,135492,Banking and Finance
+5358,86616,Manufacturing
+5359,70092,Information Technology
+5360,72000,Energy and Utility
+5361,61800,Banking and Finance
+5362,86616,Manufacturing
+5363,105708,HealthCare
+5364,153264,Food and Beverages
+5365,69408,Design
+5366,117900,Transport
+5367,135492,Banking and Finance
+5368,73080,Investment
+5369,62364,Transport
+5370,63624,Communications
+5371,79200,Transport
+5372,129876,Diversified
+5373,84924,Service
+5374,127440,HealthCare
+5375,90228,Banking and Finance
+5376,62364,Investment
+5377,60600,HealthCare
+5378,90228,Information Technology
+5379,129336,Banking and Finance
+5380,80868,Manufacturing
+5381,62964,Communications
+5382,112716,Property
+5383,60324,Manufacturing
+5384,105120,Transport
+5385,62364,Government
+5386,79200,HealthCare
+5387,69408,Transport
+5388,77988,Electronics
+5389,61800,Energy and Utility
+5390,70092,Banking and Finance
+5391,111000,Information Technology
+5392,80868,HealthCare
+5393,130740,Government
+5394,72000,Service
+5395,69408,Hospitality
+5396,110700,Food and Beverages
+5397,81048,Manufacturing
+5398,67680,Information Technology
+5399,70800,Communications
+5400,85176,Banking and Finance
+5401,90000,Manufacturing
+5402,99984,Food and Beverages
+5403,165672,Service
+5404,70800,Consulting
+5405,105708,Energy and Utility
+5406,90228,Accounting
+5407,129336,Transport
+5408,60000,Transport
+5409,61800,Accounting
+5410,69408,Manufacturing
+5411,122868,Service
+5412,84000,Banking and Finance
+5413,116040,Manufacturing
+5414,100152,Agribusiness
+5415,96612,Hospitality
+5416,69672,HealthCare
+5417,249276,Banking and Finance
+5418,69408,Media
+5419,393600,Transport
+5420,63624,Banking and Finance
+5421,60624,Data Storage
+5422,260004,HealthCare
+5423,111000,Banking and Finance
+5424,86616,HealthCare
+5425,63420,Transport
+5426,62520,Accounting
+5427,70800,Accounting
+5428,68040,Data Storage
+5429,82860,Marine
+5430,117900,Energy and Utility
+5431,62520,Government
+5432,82860,Banking and Finance
+5433,260004,Hospitality
+5434,110664,Manufacturing
+5435,84924,HealthCare
+5436,63624,Property
+5437,110700,HealthCare
+5438,127440,Food and Beverages
+5439,72156,Media
+5440,65520,Food and Beverages
+5441,77988,Diversified
+5442,88920,HealthCare
+5443,105708,Banking and Finance
+5444,110508,Education
+5445,125040,HealthCare
+5446,69672,Government
+5447,340956,Information Technology
+5448,249276,Transport
+5449,112716,Marine
+5450,105708,Banking and Finance
+5451,111720,HealthCare
+5452,165672,HealthCare
+5453,78960,Information Technology
+5454,61152,Transport
+5455,63420,Banking and Finance
+5456,63948,Agribusiness
+5457,129336,Transport
+5458,72000,Entertainment
+5459,62364,Security
+5460,145872,HealthCare
+5461,92724,Logistics
+5462,69408,Information Technology
+5463,165672,Diversified
+5464,63420,Retail
+5465,300000,Communications
+5466,75012,Energy and Utility
+5467,86616,Accounting
+5468,61152,Electronics
+5469,94680,Banking and Finance
+5470,79200,Transport
+5471,73344,HealthCare
+5472,117900,Banking and Finance
+5473,340956,Manufacturing
+5474,96000,Transport
+5475,153264,Manufacturing
+5476,69756,Manufacturing
+5477,80868,Banking and Finance
+5478,62964,Banking and Finance
+5479,129480,Hospitality
+5480,62520,Manufacturing
+5481,90000,Accounting
+5482,110700,Energy and Utility
+5483,70092,Manufacturing
+5484,68040,Property
+5485,96612,Property
+5486,60000,Manufacturing
+5487,72000,Energy and Utility
+5488,62364,Retail
+5489,70800,Government
+5490,96000,HealthCare
+5491,111720,Diversified
+5492,62364,Information Technology
+5493,127440,Agribusiness
+5494,77988,Government
+5495,63948,Transport
+5496,70800,Property
+5497,86616,Government
+5498,85176,Manufacturing
+5499,260004,Property
+5500,62244,Banking and Finance
+5501,130008,Information Technology
+5502,88920,Property
+5503,82560,Retail
+5504,133224,Energy and Utility
+5505,60000,Banking and Finance
+5506,129336,Information Technology
+5507,110664,Information Technology
+5508,86616,Design
+5509,63420,Property
+5510,393600,Communications
+5511,81120,Electronics
+5512,116040,Service
+5513,70092,Design
+5514,62244,Information Technology
+5515,110700,Service
+5516,249276,Transport
+5517,65520,Transport
+5518,70800,Hospitality
+5519,165672,Banking and Finance
+5520,90228,Information Technology
+5521,150444,Electronics
+5522,154884,Government
+5523,64476,Marine
+5524,130008,Government
+5525,125040,Marine
+5526,147996,HealthCare
+5527,112716,HealthCare
+5528,393600,HealthCare
+5529,110700,Electronics
+5530,61152,Agribusiness
+5531,88920,Transport
+5532,129336,Consulting
+5533,86616,Electronics
+5534,81120,Communications
+5535,67680,Diversified
+5536,110700,Transport
+5537,340956,Banking and Finance
+5538,63948,Education
+5539,77988,Retail
+5540,82860,Retail
+5541,89400,Security
+5542,81048,Food and Beverages
+5543,60096,Transport
+5544,72156,Diversified
+5545,153264,HealthCare
+5546,68040,Electronics
+5547,97140,Education
+5548,70092,Transport
+5549,69672,Transport
+5550,122868,Transport
+5551,112716,Marine
+5552,105708,HealthCare
+5553,70092,Manufacturing
+5554,86616,Manufacturing
+5555,81048,Consulting
+5556,96000,Transport
+5557,81048,Retail
+5558,138000,HealthCare
+5559,208440,HealthCare
+5560,393600,Energy and Utility
+5561,63624,Transport
+5562,393600,Investment
+5563,105708,Banking and Finance
+5564,130008,Information Technology
+5565,90660,Food and Beverages
+5566,78612,Government
+5567,63948,Transport
+5568,82860,Electronics
+5569,69408,Banking and Finance
+5570,130008,Government
+5571,82560,Security
+5572,72000,Information Technology
+5573,165672,Banking and Finance
+5574,72156,Banking and Finance
+5575,66324,Transport
+5576,62160,Entertainment
+5577,133224,HealthCare
+5578,60600,Retail
+5579,89400,Food and Beverages
+5580,60324,Accounting
+5581,138000,Property
+5582,70092,Marine
+5583,84312,Retail
+5584,86616,Manufacturing
+5585,129336,Transport
+5586,69756,HealthCare
+5587,84924,Transport
+5588,65520,Transport
+5589,129480,Energy and Utility
+5590,249276,Communications
+5591,116040,Transport
+5592,127440,Information Technology
+5593,135492,Manufacturing
+5594,66324,Energy and Utility
+5595,78840,Transport
+5596,62520,Manufacturing
+5597,96000,Information Technology
+5598,65520,Marine
+5599,129480,Transport
+5600,78960,Transport
+5601,73344,Manufacturing
+5602,125040,Banking and Finance
+5603,165672,Manufacturing
+5604,133224,Government
+5605,96000,Education
+5606,145872,Banking and Finance
+5607,208440,Banking and Finance
+5608,129336,Manufacturing
+5609,79200,Electronics
+5610,154884,HealthCare
+5611,393600,Information Technology
+5612,62964,Banking and Finance
+5613,130008,Transport
+5614,112716,Communications
+5615,62364,Banking and Finance
+5616,260004,Accounting
+5617,72156,Design
+5618,165672,Government
+5619,77988,Transport
+5620,73344,HealthCare
+5621,86616,Government
+5622,68040,Transport
+5623,117900,Agribusiness
+5624,69408,Food and Beverages
+5625,70092,Banking and Finance
+5626,84312,Government
+5627,61152,Information Technology
+5628,127440,Marine
+5629,110508,Manufacturing
+5630,70092,Banking and Finance
+5631,78840,Agribusiness
+5632,154884,Design
+5633,73080,Security
+5634,81048,Banking and Finance
+5635,116040,Marine
+5636,73344,Banking and Finance
+5637,69756,Service
+5638,67344,Transport
+5639,105708,Manufacturing
+5640,96000,Transport
+5641,62244,Accounting
+5642,75012,Manufacturing
+5643,61800,Education
+5644,78960,Entertainment
+5645,60324,Transport
+5646,392556,Transport
+5647,90000,Banking and Finance
+5648,84924,HealthCare
+5649,88920,Agribusiness
+5650,120000,Property
+5651,110508,Retail
+5652,147996,Diversified
+5653,60624,Transport
+5654,96612,Transport
+5655,105708,Agribusiness
+5656,96000,Information Technology
+5657,340956,Education
+5658,61800,Food and Beverages
+5659,129876,Government
+5660,72156,Food and Beverages
+5661,60324,HealthCare
+5662,130008,Accounting
+5663,110508,Communications
+5664,86616,Consulting
+5665,78840,Manufacturing
+5666,79200,Retail
+5667,122868,Data Storage
+5668,77988,Electronics
+5669,69756,Government
+5670,86616,Security
+5671,66324,Manufacturing
+5672,63624,Data Storage
+5673,73080,HealthCare
+5674,110508,Electronics
+5675,63948,Energy and Utility
+5676,65520,HealthCare
+5677,73080,Banking and Finance
+5678,60096,Food and Beverages
+5679,70800,Government
+5680,62364,Retail
+5681,97140,Media
+5682,116040,Food and Beverages
+5683,73344,Information Technology
+5684,96000,Transport
+5685,112716,Electronics
+5686,85176,Transport
+5687,133224,Banking and Finance
+5688,82560,Electronics
+5689,84000,Transport
+5690,133224,Manufacturing
+5691,80868,Electronics
+5692,82860,Transport
+5693,140004,Transport
+5694,165672,Electronics
+5695,100152,Data Storage
+5696,70800,Transport
+5697,130008,Transport
+5698,393600,Government
+5699,133224,Transport
+5700,129480,Transport
+5701,79200,Electronics
+5702,81048,Energy and Utility
+5703,127440,Marine
+5704,86616,Information Technology
+5705,70092,Security
+5706,150444,HealthCare
+5707,86616,Accounting
+5708,80868,Transport
+5709,89400,Banking and Finance
+5710,130740,Communications
+5711,112716,Diversified
+5712,183048,Retail
+5713,130008,Food and Beverages
+5714,73080,Manufacturing
+5715,61800,Accounting
+5716,84000,Security
+5717,392556,Manufacturing
+5718,145872,HealthCare
+5719,73344,Government
+5720,105708,Transport
+5721,116040,Agribusiness
+5722,70800,Media
+5723,117900,Transport
+5724,75012,Agribusiness
+5725,393600,Manufacturing
+5726,99984,Media
+5727,300000,Transport
+5728,94680,Information Technology
+5729,94680,Marine
+5730,97140,Data Storage
+5731,61152,Banking and Finance
+5732,62364,Manufacturing
+5733,60096,Manufacturing
+5734,85176,Transport
+5735,129480,HealthCare
+5736,62160,Property
+5737,112716,Investment
+5738,150444,Energy and Utility
+5739,85176,Transport
+5740,165672,Manufacturing
+5741,99984,Banking and Finance
+5742,125040,Accounting
+5743,129336,Manufacturing
+5744,129336,Government
+5745,125040,Transport
+5746,97140,Retail
+5747,92724,HealthCare
+5748,81120,Diversified
+5749,90000,Electronics
+5750,70092,Service
+5751,66324,Entertainment
+5752,340956,Information Technology
+5753,129876,Consulting
+5754,70800,Transport
+5755,260004,Information Technology
+5756,94680,Banking and Finance
+5757,82560,HealthCare
+5758,82560,Consulting
+5759,392556,Service
+5760,63420,Security
+5761,183048,Banking and Finance
+5762,72156,Investment
+5763,112716,Government
+5764,112716,HealthCare
+5765,165672,Communications
+5766,116040,Transport
+5767,70800,Banking and Finance
+5768,140004,Accounting
+5769,90228,Electronics
+5770,92724,Government
+5771,99984,Retail
+5772,80868,Manufacturing
+5773,90660,Transport
+5774,73080,Communications
+5775,133224,Data Storage
+5776,92724,Accounting
+5777,72000,Security
+5778,165672,HealthCare
+5779,69408,Hospitality
+5780,61800,HealthCare
+5781,249276,Security
+5782,112716,Design
+5783,129336,Agribusiness
+5784,111000,HealthCare
+5785,147996,Banking and Finance
+5786,129336,HealthCare
+5787,78612,Hospitality
+5788,79200,Communications
+5789,97140,Agribusiness
+5790,61800,Manufacturing
+5791,78960,Diversified
+5792,340956,HealthCare
+5793,249276,Transport
+5794,78612,Education
+5795,153264,Service
+5796,63948,Electronics
+5797,133224,Transport
+5798,67344,Energy and Utility
+5799,217200,Accounting
+5800,78960,Banking and Finance
+5801,112716,Energy and Utility
+5802,127440,Government
+5803,147996,HealthCare
+5804,88920,HealthCare
+5805,105708,Entertainment
+5806,90660,Food and Beverages
+5807,125040,Service
+5808,150444,Food and Beverages
+5809,99984,Marine
+5810,130008,Electronics
+5811,82860,Manufacturing
+5812,260004,Electronics
+5813,82560,Manufacturing
+5814,72000,Security
+5815,125040,Diversified
+5816,393600,Communications
+5817,120000,Education
+5818,125040,Electronics
+5819,82860,Marine
+5820,165672,Retail
+5821,147996,Food and Beverages
+5822,69408,Banking and Finance
+5823,96000,Food and Beverages
+5824,75012,Food and Beverages
+5825,249276,Agribusiness
+5826,111720,Transport
+5827,125040,Transport
+5828,68040,Energy and Utility
+5829,82752,Entertainment
+5830,72000,Investment
+5831,260004,Manufacturing
+5832,62244,Data Storage
+5833,82560,Manufacturing
+5834,86616,Manufacturing
+5835,70800,Media
+5836,249276,Manufacturing
+5837,165672,Government
+5838,147996,Marine
+5839,61080,Transport
+5840,117900,Property
+5841,100152,Investment
+5842,96000,Security
+5843,60624,Transport
+5844,393600,HealthCare
+5845,99984,Information Technology
+5846,84312,HealthCare
+5847,112716,Electronics
+5848,129876,Banking and Finance
+5849,116040,Retail
+5850,300000,Communications
+5851,122868,Retail
+5852,90660,Transport
+5853,81048,Information Technology
+5854,127440,Retail
+5855,60324,Information Technology
+5856,110508,Manufacturing
+5857,70800,Design
+5858,70092,HealthCare
+5859,116040,Transport
+5860,120000,Manufacturing
+5861,61080,Energy and Utility
+5862,300000,Investment
+5863,60624,Communications
+5864,130740,Diversified
+5865,129336,Property
+5866,73080,Banking and Finance
+5867,122868,Accounting
+5868,72156,Banking and Finance
+5869,61152,Investment
+5870,105708,HealthCare
+5871,63624,Transport
+5872,112716,Accounting
+5873,96612,Property
+5874,62520,Service
+5875,129480,Government
+5876,300000,Banking and Finance
+5877,63948,Government
+5878,94680,Design
+5879,62244,Retail
+5880,208440,Manufacturing
+5881,133224,Food and Beverages
+5882,120000,Marine
+5883,125040,Electronics
+5884,153264,Transport
+5885,69672,Transport
+5886,117900,Government
+5887,60324,Transport
+5888,96000,Manufacturing
+5889,72000,Agribusiness
+5890,80868,HealthCare
+5891,116040,HealthCare
+5892,153264,Transport
+5893,112716,Banking and Finance
+5894,69408,Government
+5895,260004,Information Technology
+5896,78960,Diversified
+5897,130008,Security
+5898,62244,Information Technology
+5899,82560,Information Technology
+5900,129336,Accounting
+5901,84000,Retail
+5902,62520,Manufacturing
+5903,84312,Diversified
+5904,86616,Education
+5905,82860,Diversified
+5906,133224,Transport
+5907,82860,Transport
+5908,249276,Banking and Finance
+5909,88920,Diversified
+5910,130008,Food and Beverages
+5911,69672,Electronics
+5912,67680,Information Technology
+5913,110508,Transport
+5914,75012,Information Technology
+5915,340956,Food and Beverages
+5916,66324,Media
+5917,111720,Banking and Finance
+5918,100152,HealthCare
+5919,73080,HealthCare
+5920,72000,Food and Beverages
+5921,140004,Property
+5922,84924,Diversified
+5923,88920,Marine
+5924,183048,Transport
+5925,63420,Agribusiness
+5926,110700,HealthCare
+5927,129876,Accounting
+5928,78840,Government
+5929,183048,Service
+5930,117900,Government
+5931,84312,Government
+5932,111720,Investment
+5933,60096,Transport
+5934,116040,Government
+5935,208440,Electronics
+5936,86616,HealthCare
+5937,86616,Education
+5938,153264,Government
+5939,72000,Transport
+5940,70092,HealthCare
+5941,69672,Agribusiness
+5942,110700,Manufacturing
+5943,145872,HealthCare
+5944,105708,Transport
+5945,100152,Service
+5946,96000,Food and Beverages
+5947,147996,Manufacturing
+5948,208440,Transport
+5949,81120,Agribusiness
+5950,105708,Banking and Finance
+5951,62964,Investment
+5952,97140,Food and Beverages
+5953,84000,Manufacturing
+5954,97140,Entertainment
+5955,78960,HealthCare
+5956,72156,Service
+5957,100152,Consulting
+5958,116040,Manufacturing
+5959,70092,Transport
+5960,66324,Transport
+5961,89400,Service
+5962,393600,Diversified
+5963,64476,Banking and Finance
+5964,217200,Banking and Finance
+5965,300000,Transport
+5966,112716,Manufacturing
+5967,153264,Banking and Finance
+5968,82752,Marine
+5969,111720,Food and Beverages
+5970,85176,HealthCare
+5971,116040,Marine
+5972,392556,Manufacturing
+5973,260004,Manufacturing
+5974,67344,Diversified
+5975,64476,Transport
+5976,217200,Food and Beverages
+5977,81120,Food and Beverages
+5978,97140,Education
+5979,150444,Communications
+5980,96612,Manufacturing
+5981,62160,Banking and Finance
+5982,129480,Electronics
+5983,65520,Food and Beverages
+5984,61152,Energy and Utility
+5985,86616,Design
+5986,110700,Transport
+5987,340956,Design
+5988,99984,Banking and Finance
+5989,62520,Food and Beverages
+5990,112716,Government
+5991,89400,Agribusiness
+5992,85176,Food and Beverages
+5993,72000,Government
+5994,392556,Marine
+5995,78612,Property
+5996,63624,Property
+5997,260004,Security
+5998,165672,HealthCare
+5999,129336,Banking and Finance
+6000,82860,Manufacturing
+6001,28371,Transport
+6002,27992,Transport
+6003,28178,Investment
+6004,24672,Banking and Finance
+6005,22455,Transport
+6006,20524,Transport
+6007,25868,Government
+6008,24933,Communications
+6009,25905,Retail
+6010,23535,Property
+6011,21549,Diversified
+6012,26643,Food and Beverages
+6013,28645,Security
+6014,22347,Investment
+6015,22462,Entertainment
+6016,26540,Transport
+6017,23024,Transport
+6018,20909,Transport
+6019,25470,HealthCare
+6020,28499,Security
+6021,22755,Transport
+6022,24072,Banking and Finance
+6023,27882,Communications
+6024,27013,Media
+6025,24671,HealthCare
+6026,24700,Education
+6027,23858,Communications
+6028,22620,Food and Beverages
+6029,26934,Retail
+6030,28990,Retail
+6031,27921,Investment
+6032,22785,Transport
+6033,21686,Communications
+6034,27114,HealthCare
+6035,23456,Hospitality
+6036,29451,Electronics
+6037,22268,Design
+6038,22518,Communications
+6039,27469,Information Technology
+6040,23616,Transport
+6041,26941,Manufacturing
+6042,22197,Transport
+6043,23427,Energy and Utility
+6044,26433,Transport
+6045,28900,Food and Beverages
+6046,24909,Diversified
+6047,22621,Investment
+6048,20645,Property
+6049,23674,Retail
+6050,25377,Transport
+6051,28656,Accounting
+6052,21414,Manufacturing
+6053,22509,Property
+6054,22777,Food and Beverages
+6055,25278,HealthCare
+6056,28071,Information Technology
+6057,22433,Consulting
+6058,23528,Transport
+6059,21333,Information Technology
+6060,21552,HealthCare
+6061,25551,Design
+6062,29310,Government
+6063,29886,Electronics
+6064,22625,Energy and Utility
+6065,26732,Government
+6066,21117,Service
+6067,25835,Design
+6068,27691,Diversified
+6069,29330,Information Technology
+6070,24246,Design
+6071,38400,Consulting
+6072,38757,Investment
+6073,49000,Communications
+6074,50370,Retail
+6075,20400,Entertainment
+6076,30000,Healthcare
+6077,72259,Communications
+6078,204372,Food and Beverages
+6079,24000,Government
+6080,90000,Healthcare
+6081,21000,Government
+6082,25000,Government
+6083,28000,Hospitality
+6084,21800,Transport
+6085,22600,Transport
+6086,25000,Food and Beverages
+6087,47000,Transport
+6088,46360,Design
+6089,74000,Transport
+6090,76000,Transport
+6091,74000,Property
+6092,74120,Retail
+6093,151000,Design
+6094,55040,Diversified
+6095,222000,Data Storage
+6096,50000,Education
+6097,60000,Property
+6098,44100,Banking and Finance
+6099,103200,Education
+6100,60010,Information Technology
+6101,54000,Communications
+6102,82000,Investment
+6103,77800,Communications
+6104,51000,Information Technology
+6105,77500,Transport
+6106,51500,Manufacturing
+6107,108720,Banking and Finance
+6108,46360,Accounting
+6109,75010,Transport
+6110,198000,Information Technology
+6111,49000,Retail
+6112,77000,Property
+6113,76040,Marine
+6114,88800,Information Technology
+6115,55100,Retail
+6116,55100,Security
+6117,51000,Security
+6118,54000,Electronics
+6119,83000,Information Technology
+6120,250900,Food and Beverages
+6121,80000,Banking and Finance
+6122,73500,Transport
+6123,42000,Transport
+6124,42000,Security
+6125,59000,Communications
+6126,91000,Accounting
+6127,54000,HealthCare
+6128,74000,Transport
+6129,74000,Property
+6130,42000,Transport
+6131,54000,Communications
+6132,83000,Transport
+6133,237000,Media
+6134,30301,Electronics
+6135,53000,Retail
+6136,84400,Design
+6137,108720,Banking and Finance
+6138,48000,Information Technology
+6139,74000,Transport
+6140,76100,Property
+6141,91000,Information Technology
+6142,44600,Security
+6143,80600,Property
+6144,202000,Diversified
+6145,59100,Transport
+6146,80640,Transport
+6147,78000,Transport
+6148,80880,Transport
+6149,95000,Electronics
+6150,251240,Food and Beverages
+6151,58100,Property
+6152,46400,HealthCare
+6153,44160,Diversified
+6154,83000,Property
+6155,199000,Investment
+6156,49560,Food and Beverages
+6157,48600,Banking and Finance
+6158,48680,Diversified
+6159,60010,Information Technology
+6160,52000,Diversified
+6161,81640,Transport
+6162,239000,HealthCare
+6163,74120,Electronics
+6164,195040,Media
+6165,198200,Retail
+6166,109000,Consulting
+6167,74000,Government
+6168,52000,Property
+6169,84800,Diversified
+6170,201480,Service
+6171,47500,Data Storage
+6172,51800,Security
+6173,83000,Investment
+6174,74000,Security
+6175,80200,Transport
+6176,46800,Design
+6177,51000,Marine
+6178,82000,Property
+6179,79000,Transport
+6180,60000,Communications
+6181,57000,HealthCare
+6182,205300,Manufacturing
+6183,80000,Investment
+6184,109000,Marine
+6185,73000,Transport
+6186,205000,Consulting
+6187,59000,Retail
+6188,83000,Property
+6189,169000,Investment
+6190,109000,Media
+6191,49000,Entertainment
+6192,89000,Banking and Finance
+6193,73000,Investment
+6194,29630,Manufacturing
+6195,46000,Communications
+6196,82000,Transport
+6197,85000,Investment
+6198,45640,Transport
+6199,50000,Information Technology
+6200,79500,HealthCare
+6201,50000,Diversified
+6202,48000,Retail
+6203,50000,Communications
+6204,201500,Retail
+6205,109000,Design
+6206,152000,Diversified
+6207,47000,Security
+6208,42000,HealthCare
+6209,51500,Electronics
+6210,52000,Investment
+6211,60000,Entertainment
+6212,53000,HealthCare
+6213,52000,Design
+6214,201000,Information Technology
+6215,44160,Information Technology
+6216,42000,Transport
+6217,77000,Property
+6218,82000,Information Technology
+6219,78000,Investment
+6220,51000,Property
+6221,97100,Banking and Finance
+6222,37320,Food and Beverages
+6223,88800,Food and Beverages
+6224,48960,Information Technology
+6225,98000,Communications
+6226,80500,Manufacturing
+6227,40000,Property
+6228,69000,Investment
+6229,178000,HealthCare
+6230,48000,Property
+6231,44000,Entertainment
+6232,42000,Information Technology
+6233,43000,Marine
+6234,55900,Manufacturing
+6235,51000,Property
+6236,48000,Data Storage
+6237,152000,Transport
+6238,59600,Communications
+6239,72000,Retail
+6240,73600,Electronics
+6241,51000,Security
+6242,52720,Communications
+6243,265200,Transport
+6244,78000,Design
+6245,77000,Consulting
+6246,80000,Transport
+6247,52000,Transport
+6248,74000,Property
+6249,37502,Food and Beverages
+6250,48000,Manufacturing
+6251,77000,Information Technology
+6252,48000,Accounting
+6253,56000,Information Technology
+6254,81300,Property
+6255,59800,Transport
+6256,65000,Manufacturing
+6257,67850,Diversified
+6258,143200,Security
+6259,43680,Manufacturing
+6260,48000,Transport
+6261,78000,Design
+6262,83000,Property
+6263,70000,Information Technology
+6264,52000,Property
+6265,71000,Property
+6266,73450,Design
+6267,52720,Security
+6268,83000,Property
+6269,76000,Information Technology
+6270,152000,Electronics
+6271,42000,Communications
+6272,104400,Marine
+6273,56000,Transport
+6274,97200,Property
+6275,49000,Property
+6276,89000,Investment
+6277,152000,Education
+6278,77000,Property
+6279,79160,Property
+6280,79532,Manufacturing
+6281,70000,Communications
+6282,60000,Communications
+6283,48000,Electronics
+6284,42000,Security
+6285,197000,Communications
+6286,54000,Communications
+6287,60000,Hospitality
+6288,252000,Electronics
+6289,46400,Marine
+6290,83000,Property
+6291,76000,Logistics
+6292,73560,Diversified
+6293,202000,Investment
+6294,59000,Transport
+6295,57280,Transport
+6296,75000,Accounting
+6297,33072,Food and Beverages
+6298,55120,Manufacturing
+6299,50100,Government
+6300,49000,Communications
+6301,59280,Information Technology
+6302,82000,Investment
+6303,217500,Manufacturing
+6304,73000,Manufacturing
+6305,30602,Banking and Finance
+6306,59000,Property
+6307,97320,Media
+6308,109000,Design
+6309,205200,Government
+6310,31950,Manufacturing
+6311,52000,Transport
+6312,49000,Diversified
+6313,51000,Transport
+6314,52000,Manufacturing
+6315,52000,Banking and Finance
+6316,45000,Property
+6317,47000,Transport
+6318,45000,Government
+6319,150000,Communications
+6320,247280,Manufacturing
+6321,42720,Education
+6322,150000,Diversified
+6323,56360,Food and Beverages
+6324,78000,Security
+6325,50000,Banking and Finance
+6326,52000,HealthCare
+6327,58000,Retail
+6328,63000,Government
+6329,83240,Transport
+6330,71000,Government
+6331,51000,Communications
+6332,46000,Investment
+6333,73100,Manufacturing
+6334,248000,Manufacturing
+6335,80600,Communications
+6336,80000,Information Technology
+6337,62590,Diversified
+6338,107100,Transport
+6339,33812,Food and Beverages
+6340,47980,HealthCare
+6341,132000,Transport
+6342,89000,Transport
+6343,56800,Government
+6344,104000,Property
+6345,50000,Manufacturing
+6346,73600,Property
+6347,78500,Information Technology
+6348,73600,Energy and Utility
+6349,54000,HealthCare
+6350,53000,Communications
+6351,78000,Communications
+6352,73000,Manufacturing
+6353,79160,Transport
+6354,65960,Manufacturing
+6355,185000,Electronics
+6356,59000,Banking and Finance
+6357,56000,Communications
+6358,75000,HealthCare
+6359,79000,Transport
+6360,73100,Media
+6361,52000,Accounting
+6362,60000,Food and Beverages
+6363,38000,Food and Beverages
+6364,50300,Banking and Finance
+6365,76000,Transport
+6366,50000,Food and Beverages
+6367,150000,Diversified
+6368,81900,Information Technology
+6369,56360,Energy and Utility
+6370,56400,Manufacturing
+6371,111946,Banking and Finance
+6372,55000,Information Technology
+6373,62000,HealthCare
+6374,90000,Manufacturing
+6375,75000,Transport
+6376,52000,Marine
+6377,96360,Banking and Finance
+6378,51000,Manufacturing
+6379,78000,Property
+6380,60000,Electronics
+6381,43000,Food and Beverages
+6382,96000,Energy and Utility
+6383,69000,Diversified
+6384,78000,Transport
+6385,74000,Transport
+6386,52300,Education
+6387,39650,Food and Beverages
+6388,43265,Service
+6389,201200,Transport
+6390,52080,Banking and Finance
+6391,64359,Agribusiness
+6392,75000,Property
+6393,43000,Manufacturing
+6394,77000,HealthCare
+6395,46890,Service
+6396,54000,Property
+6397,48500,Property
+6398,123500,HealthCare
+6399,45000,Communications
+6400,45000,Energy and Utility
+6401,51010,Information Technology
+6402,78600,Design
+6403,52000,Retail
+6404,74236,Investment
+6405,100000,Information Technology
+6406,49000,Property
+6407,45000,Retail
+6408,56800,Manufacturing
+6409,52000,Government
+6410,49850,Manufacturing
+6411,43200,Food and Beverages
+6412,43000,Communications
+6413,58962,Retail
+6414,54000,Agribusiness
+6415,96000,Media
+6416,81000,Security
+6417,47000,Security
+6418,150000,Diversified
+6419,65230,Transport
+6420,46000,Food and Beverages
+6421,39680,Investment
+6422,78000,Transport
+6423,81000,Property
+6424,83320,Logistics
+6425,54000,Agribusiness
+6426,78000,Diversified
+6427,53000,Manufacturing
+6428,135000,Transport
+6429,249440,Consulting
+6430,75000,Logistics
+6431,104100,Transport
+6432,48500,Manufacturing
+6433,73640,Information Technology
+6434,107200,Consulting
+6435,48000,Food and Beverages
+6436,45600,HealthCare
+6437,60000,Banking and Finance
+6438,33000,Food and Beverages
+6439,135000,Design
+6440,201280,Manufacturing
+6441,60000,Manufacturing
+6442,60000,Manufacturing
+6443,42000,Information Technology
+6444,52160,Transport
+6445,80600,Manufacturing
+6446,56800,Property
+6447,58000,Media
+6448,46080,Food and Beverages
+6449,42000,Information Technology
+6450,45800,Design
+6451,51000,Security
+6452,41280,Transport
+6453,53040,Transport
+6454,150000,Energy and Utility
+6455,56400,Information Technology
+6456,57040,Information Technology
+6457,73000,Property
+6458,47520,Transport
+6459,46080,Information Technology
+6460,78000,HealthCare
+6461,42000,Food and Beverages
+6462,90000,Investment
+6463,76000,Transport
+6464,81000,Accounting
+6465,42000,Security
+6466,50000,Diversified
+6467,81000,Retail
+6468,105000,Logistics
+6469,85000,Investment
+6470,129500,Manufacturing
+6471,75000,HealthCare
+6472,51000,Communications
+6473,50000,Communications
+6474,61000,Banking and Finance
+6475,47600,Transport
+6476,53000,Manufacturing
+6477,63000,HealthCare
+6478,47000,Manufacturing
+6479,49000,Banking and Finance
+6480,53680,Transport
+6481,44560,Transport
+6482,59000,Retail
+6483,42000,Investment
+6484,42000,Design
+6485,73000,Transport
+6486,59632,Manufacturing
+6487,48000,Investment
+6488,59800,Communications
+6489,59280,Information Technology
+6490,53000,Energy and Utility
+6491,81000,HealthCare
+6492,42000,Banking and Finance
+6493,249600,Communications
+6494,46100,Investment
+6495,43000,Property
+6496,50000,Retail
+6497,83000,Investment
+6498,67000,Communications
+6499,54000,Retail
+6500,65000,Information Technology
+6501,78000,Property
+6502,42000,Manufacturing
+6503,103200,Consulting
+6504,50640,Information Technology
+6505,53000,Electronics
+6506,51000,Transport
+6507,81320,Transport
+6508,58100,Investment
+6509,199000,Investment
+6510,73800,HealthCare
+6511,97000,Investment
+6512,58000,Information Technology
+6513,43440,Manufacturing
+6514,104600,Property
+6515,52320,Communications
+6516,56000,HealthCare
+6517,48120,Information Technology
+6518,60000,Consulting
+6519,52000,Transport
+6520,80600,Manufacturing
+6521,77000,Investment
+6522,56440,Information Technology
+6523,68000,Transport
+6524,35000,Food and Beverages
+6525,47000,HealthCare
+6526,250000,Electronics
+6527,32666,Banking and Finance
+6528,55000,Communications
+6529,57000,Property
+6530,55000,Manufacturing
+6531,31899,Communications
+6532,102300,HealthCare
+6533,44000,Security
+6534,45000,Diversified
+6535,81000,Transport
+6536,58000,Agribusiness
+6537,59000,Information Technology
+6538,139700,Communications
+6539,69100,Energy and Utility
+6540,73000,Media
+6541,49600,Communications
+6542,30596,Manufacturing
+6543,50000,Security
+6544,31200,Hospitality
+6545,52000,Manufacturing
+6546,28656,Accounting
+6547,58000,Marine
+6548,47600,Security
+6549,53000,Manufacturing
+6550,29600,Communications
+6551,54000,Government
+6552,48000,Design
+6553,35000,Logistics
+6554,55000,Manufacturing
+6555,53000,Electronics
+6556,79000,Transport
+6557,79500,HealthCare
+6558,50960,HealthCare
+6559,48600,Data Storage
+6560,43000,Security
+6561,56520,Information Technology
+6562,73590,Transport
+6563,83000,Property
+6564,73000,Manufacturing
+6565,105000,Energy and Utility
+6566,35800,Manufacturing
+6567,79560,Entertainment
+6568,69880,Service
+6569,48000,Diversified
+6570,78000,Transport
+6571,75000,Communications
+6572,81000,Transport
+6573,107600,Security
+6574,92000,Electronics
+6575,58000,Information Technology
+6576,52100,Media
+6577,76000,Accounting
+6578,199000,Information Technology
+6579,41400,HealthCare
+6580,52000,Communications
+6581,52300,HealthCare
+6582,212000,Electronics
+6583,83000,Marine
+6584,52000,Investment
+6585,58800,Retail
+6586,74080,Manufacturing
+6587,72000,Energy and Utility
+6588,79000,Investment
+6589,78000,Transport
+6590,42000,Transport
+6591,51000,Education
+6592,42000,Education
+6593,75923,Transport
+6594,41000,Retail
+6595,55000,Information Technology
+6596,47040,Security
+6597,43500,Diversified
+6598,81900,Transport
+6599,42000,Investment
+6600,52000,Transport
+6601,73920,Information Technology
+6602,59680,Transport
+6603,50000,Communications
+6604,104400,HealthCare
+6605,123749,Manufacturing
+6606,150000,Property
+6607,82900,Property
+6608,78000,Communications
+6609,42000,Communications
+6610,52000,Design
+6611,150000,Manufacturing
+6612,201000,Transport
+6613,42480,Energy and Utility
+6614,42000,Investment
+6615,32496,Media
+6616,42000,Transport
+6617,52300,Retail
+6618,46100,Food and Beverages
+6619,217000,Investment
+6620,89000,Manufacturing
+6621,33641,Agribusiness
+6622,75000,Communications
+6623,42000,Information Technology
+6624,42100,Manufacturing
+6625,73000,Media
+6626,139600,Transport
+6627,37200,Logistics
+6628,75000,Banking and Finance
+6629,75000,Marine
+6630,84000,Investment
+6631,67000,Transport
+6632,77000,Transport
+6633,60000,Property
+6634,73200,Transport
+6635,39880,Transport
+6636,58100,Government
+6637,33000,Diversified
+6638,78000,Property
+6639,70000,Information Technology
+6640,49600,Diversified
+6641,250000,Manufacturing
+6642,57900,Retail
+6643,130000,Transport
+6644,47100,Transport
+6645,63000,Government
+6646,63000,Communications
+6647,178500,Energy and Utility
+6648,78000,Marine
+6649,97000,Investment
+6650,150000,Data Storage
+6651,201600,Accounting
+6652,54000,Diversified
+6653,42000,Design
+6654,59000,Investment
+6655,79800,Food and Beverages
+6656,42400,Education
+6657,57000,Marine
+6658,295000,Transport
+6659,50000,Security
+6660,40000,Retail
+6661,51720,HealthCare
+6662,50000,Banking and Finance
+6663,123000,Transport
+6664,59000,Retail
+6665,59630,HealthCare
+6666,45000,Communications
+6667,41280,Investment
+6668,50000,Security
+6669,52680,Investment
+6670,56440,Security
+6671,48000,HealthCare
+6672,98000,Security
+6673,55000,HealthCare
+6674,107880,Media
+6675,202000,Banking and Finance
+6676,54000,Manufacturing
+6677,59000,Communications
+6678,80000,Transport
+6679,159000,Diversified
+6680,50100,Communications
+6681,52000,HealthCare
+6682,44100,Security
+6683,78120,Security
+6684,52000,Manufacturing
+6685,73240,Manufacturing
+6686,53000,Diversified
+6687,69500,Communications
+6688,76000,Transport
+6689,50000,Banking and Finance
+6690,196600,Investment
+6691,197000,Logistics
+6692,90000,Banking and Finance
+6693,78000,Investment
+6694,60000,HealthCare
+6695,52000,HealthCare
+6696,48520,Communications
+6697,50700,Communications
+6698,31106,Security
+6699,51000,Banking and Finance
+6700,51400,HealthCare
+6701,197000,Transport
+6702,250000,Transport
+6703,47100,Transport
+6704,48900,Information Technology
+6705,250000,HealthCare
+6706,82000,Property
+6707,73240,Transport
+6708,81000,Property
+6709,47200,Security
+6710,57000,Banking and Finance
+6711,55000,Retail
+6712,150100,Security
+6713,250000,HealthCare
+6714,50000,Communications
+6715,49000,Manufacturing
+6716,58000,Marine
+6717,58960,Investment
+6718,74000,Transport
+6719,49000,Manufacturing
+6720,75000,Communications
+6721,41520,Diversified
+6722,97000,Energy and Utility
+6723,48000,Manufacturing
+6724,97000,Education
+6725,57000,Transport
+6726,52000,HealthCare
+6727,198960,Energy and Utility
+6728,53120,Information Technology
+6729,57000,HealthCare
+6730,73000,Investment
+6731,51720,Government
+6732,81000,Transport
+6733,52000,Retail
+6734,54000,Accounting
+6735,42000,Diversified
+6736,32154,Food and Beverages
+6737,50000,Communications
+6738,50000,Security
+6739,142600,Property
+6740,51000,HealthCare
+6741,60000,Communications
+6742,79000,Property
+6743,73360,Property
+6744,56440,Retail
+6745,59100,Energy and Utility
+6746,108000,Property
+6747,48560,Energy and Utility
+6748,150750,Diversified
+6749,225500,Investment
+6750,99600,Transport
+6751,48000,Property
+6752,81000,Government
+6753,33681,Retail
+6754,48000,HealthCare
+6755,136800,Investment
+6756,60000,Manufacturing
+6757,80000,Property
+6758,54000,Property
+6759,79000,Investment
+6760,137000,Energy and Utility
+6761,84240,Accounting
+6762,49000,Government
+6763,81000,Energy and Utility
+6764,51000,Communications
+6765,46100,Transport
+6766,73400,Communications
+6767,79000,Transport
+6768,42000,Education
+6769,151000,Manufacturing
+6770,55000,Retail
+6771,80600,Media
+6772,52000,Manufacturing
+6773,81000,Transport
+6774,48120,Government
+6775,80000,Information Technology
+6776,76000,Manufacturing
+6777,74000,Property
+6778,201000,HealthCare
+6779,51000,Investment
+6780,198200,Manufacturing
+6781,54000,Manufacturing
+6782,108240,Consulting
+6783,84400,Electronics
+6784,52000,Diversified
+6785,39000,HealthCare
+6786,49000,Logistics
+6787,75000,Manufacturing
+6788,33065,Manufacturing
+6789,52000,HealthCare
+6790,33683,Government
+6791,48000,Property
+6792,108300,Electronics
+6793,46200,Communications
+6794,49000,Property
+6795,48000,Transport
+6796,50000,Manufacturing
+6797,60000,Communications
+6798,50100,Communications
+6799,45200,Design
+6800,39000,Manufacturing
+6801,51000,Information Technology
+6802,48900,Property
+6803,48900,Transport
+6804,75000,Transport
+6805,151000,Energy and Utility
+6806,79000,HealthCare
+6807,97000,Design
+6808,201400,Transport
+6809,48120,Banking and Finance
+6810,50000,Manufacturing
+6811,42000,Security
+6812,73500,Diversified
+6813,42000,Security
+6814,43000,Energy and Utility
+6815,41600,HealthCare
+6816,80600,Design
+6817,73000,Security
+6818,51000,Retail
+6819,49000,Investment
+6820,57000,Communications
+6821,204400,Design
+6822,221500,Property
+6823,42000,Communications
+6824,30599,Manufacturing
+6825,81000,Communications
+6826,50000,Security
+6827,52000,Banking and Finance
+6828,77000,Transport
+6829,78200,Transport
+6830,73000,Media
+6831,60000,Property
+6832,44100,Banking and Finance
+6833,48000,Communications
+6834,47000,Security
+6835,46240,Manufacturing
+6836,49000,Education
+6837,78010,Food and Beverages
+6838,104400,Transport
+6839,54284,Transport
+6840,83000,Communications
+6841,32156,Food and Beverages
+6842,33693,Government
+6843,52100,Manufacturing
+6844,42000,Transport
+6845,47000,Communications
+6846,47000,Security
+6847,33747,Transport
+6848,52000,Electronics
+6849,60000,Transport
+6850,250100,Communications
+6851,48000,Investment
+6852,75000,Investment
+6853,74000,Accounting
+6854,55000,Retail
+6855,54000,Government
+6856,80200,Transport
+6857,224500,Communications
+6858,108480,Diversified
+6859,42000,Energy and Utility
+6860,73500,Transport
+6861,73040,Transport
+6862,45600,HealthCare
+6863,57000,Electronics
+6864,77000,Investment
+6865,59000,Communications
+6866,41680,HealthCare
+6867,60000,Communications
+6868,41920,Retail
+6869,42000,Food and Beverages
+6870,47000,Transport
+6871,46360,Design
+6872,74000,Transport
+6873,76000,Transport
+6874,74000,Property
+6875,74120,Retail
+6876,151000,Design
+6877,55040,Diversified
+6878,222000,Data Storage
+6879,50000,Education
+6880,60000,Property
+6881,44100,Banking and Finance
+6882,103200,Education
+6883,60010,Information Technology
+6884,54000,Communications
+6885,82000,Investment
+6886,77800,Communications
